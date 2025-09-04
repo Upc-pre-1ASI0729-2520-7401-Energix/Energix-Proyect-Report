@@ -33,8 +33,8 @@
       <td>u202312629</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Encalada Salazar, Alexis</td>
+      <td>u20211g491</td>
     </tr>
     <tr>
       <td>Torres Lavandera, Andrés Rodrigo</td>
