@@ -37,8 +37,8 @@
       <td></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Torres Lavandera, Andrés Rodrigo</td>
+      <td>u202312557</td>
     </tr>
   </tbody>
 </table>
