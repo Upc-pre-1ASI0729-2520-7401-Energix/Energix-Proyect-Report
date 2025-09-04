@@ -21,8 +21,8 @@
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Huaman Olivos, Yeira Shari</td>
+      <td>u202210513</td>
     </tr>
     <tr>
       <td>Loechle Arias, Mateo Ítalo</td>
