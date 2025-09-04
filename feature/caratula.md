@@ -1,4 +1,4 @@
-![upc logo .png](../../assets/chapter1/upc%20logo%20.png)
+![upc logo .png](assets/upc-logo.png)
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
