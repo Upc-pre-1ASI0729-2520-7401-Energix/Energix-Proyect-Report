@@ -29,8 +29,8 @@
       <td>u202215004</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Barturen Panez, Iker Gabriel</td>
+      <td>u202312629</td>
     </tr>
     <tr>
       <td></td>
