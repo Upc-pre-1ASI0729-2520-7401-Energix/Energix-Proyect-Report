@@ -4,10 +4,10 @@
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
-## Carrera: Ingeniería de Software
-## Open Source - Presencial
-## PROFESOR: Mori Paiva Hugo Allan
-## NRC: 7401
+### Carrera: Ingeniería de Software
+### Open Source - Presencial
+### PROFESOR: Mori Paiva Hugo Allan
+### NRC: 7401
 ## INFORME TB1
 ## START UP: Energix
 ## PRODUCTO: Smart Energy Management System (SEMS)
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<table style="border-collapse: collapse; width: 25%; margin: 0 auto;">
+<table style="text-align:center;">
   <thead>
     <tr>
       <th style="background-color: #333; color: #fff; padding: 8px;">Apellidos y Nombres</th>
