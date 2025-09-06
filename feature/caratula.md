@@ -9,7 +9,7 @@
 ### PROFESOR: Mori Paiva Hugo Allan
 ### NRC: 7401
 ## INFORME TB1
-## START UP: Energix
+## STARTUP: Energix
 ## PRODUCTO: Smart Energy Management System (SEMS)
 
 ---
