@@ -1,10 +1,26 @@
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
-#### Somos una startup de la UPC
 ### 1.1.1. Descripción de la Startup
+Somos Energix, un Startup conformado por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) con el objetivo de crear una plataforma que contribuya a la optimización del consumo energético y que genere un impacto positivo en la economía de hogares que utilizan múltiples artefactos electrónicos.
+Nuestra misión es contribuir a la reducción de costos energéticos mediante el uso de Energix Manager. Para lograrlo, ofrecemos una solución integral que proporciona a los usuarios informes semanales detallados sobre el consumo de energía, alertas automatizadas cuando un dispositivo presenta un uso excesivo, y herramientas de monitoreo en tiempo real que les permiten supervisar el comportamiento energético de cada uno de sus electrodomésticos y equipos electrónicos.
 
+- Misión: Desarrollar soluciones tecnológicas accesibles y eficientes que ayuden a las personas en situación de dependencia, mediante plataformas intuitivas y con facil uso
+- Visión: En un futuro cercano, WebExpert se destacará como una empresa líder en desarrollo de soluciones tecnológicas que ayuden a las personas que más lo necesitan.Asimismo, se le reconocerá por su compromiso con la accesibilidad,innovación social y la mejora continua de la calidad de vida de las personas en situación de dependencia.
+
+- Logo de la Startup:
+
+<img src="../assets/energix-logo.png" alt="Logo de Energix" width="200"/>
 ### 1.1.2. Perfiles de integrantes del equipo
+
+| Nombre | Descripción |
+|--------|-------------|
+| Yeira Shari | Datos 1     |
+| Mateo Ítalo | Datos 2     |
+| Iker Gabriel | Datos 3     |
+| Alexis | Datos 4     |
+| Andrés Rodrigo | Datos 5     |
+
 
 ## 1.2. Solution Profile
 
