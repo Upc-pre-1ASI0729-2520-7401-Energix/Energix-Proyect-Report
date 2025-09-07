@@ -93,7 +93,7 @@ El desafío principal que enfrentamos es lograr que nuestros usuarios confíen e
 
 ### Business Assumptions
 
-- Creemos que nuestros usuarios tienen la necesidad de: 
+- Creemos que nuestros usuarios tienen la necesidad de:
   obtener información y herramientas para reducir su consumo de energía eléctrica y, como resultado, disminuir el costo de sus facturas. Buscan una forma simple y efectiva de gestionar el uso de energía en su hogar.
 
 - Estas necesidades se pueden satisfacer con:
