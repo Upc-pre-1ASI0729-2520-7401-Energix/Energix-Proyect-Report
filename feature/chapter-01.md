@@ -47,6 +47,14 @@ Nuestro proceso Lean UX está diseñado para optimizar la eficiencia en el desar
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
+Nuestra página web está diseñada para ayudar a los usuarios a controlar y reducir el consumo de energía eléctrica en sus hogares, promoviendo así el ahorro y una mayor eficiencia energética. En un contexto donde el aumento de las tarifas eléctricas y la preocupación por el impacto ambiental son cada vez más relevantes, muchas personas enfrentan dificultades para monitorear su consumo de manera efectiva. Además, muchas veces no tienen acceso a herramientas intuitivas que les permitan tomar decisiones informadas sobre cómo optimizar el uso de energía.
+
+Energix es una startup que ofrece una solución innovadora para monitorear el consumo energético del hogar en tiempo real. Nuestra plataforma incluye un medidor inteligente que realiza un seguimiento constante de los picos y caídas de energía, emitiendo alertas, proporcionando recomendaciones personalizadas y permitiendo a los usuarios apagar dispositivos que consumen demasiada energía. Además, los usuarios podrán acceder a un panel web donde podrán visualizar de manera clara y sencilla el desempeño energético de su hogar.
+
+El desafío principal que enfrentamos es lograr que nuestros usuarios confíen en Energix como una solución eficaz y fácil de usar, integrando la tecnología en su vida diaria de forma que no sea percibida como complicada o intrusiva. Aunque nuestra solución es precisa y ofrece un gran potencial para reducir el consumo y los costos, muchos usuarios pueden sentirse desconectados de la tecnología o dudar de su utilidad en la práctica, especialmente al tratarse de un área tan sensible como el control de consumo energético en el hogar.
+
+¿Cómo podríamos lograr que nuestros usuarios confíen en Energix como una herramienta intuitiva, accesible y efectiva para reducir el consumo de energía eléctrica, ayudándoles a ahorrar de forma constante?
+
 #### 1.2.2.2. Lean UX Assumptions.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
