@@ -206,7 +206,7 @@ El desafío principal que enfrentamos es lograr que nuestros usuarios confíen e
 - Creemos que lograremos una expansión sostenida de nuestra base de usuarios si se implementan campañas de marketing específicas dirigidas a comunidades residenciales, redes sociales de ahorro doméstico y colaboraciones con empresas de servicios públicos. Con estas acciones y medición de tasas de adquisición, se podrá ajustar la estrategia para optimizar el retorno por canal y mejorar la conversión entre usuarios conscientes del gasto energético.
 
 #### 1.2.2.4. Lean UX Canvas.
-
+- ![LeanUxCanvas.png](../assets/Lean-Ux-Canvas.png)
 ## 1.3. Segmentos objetivos.
 
 | | Segmento 1 | Segmento 2 |
