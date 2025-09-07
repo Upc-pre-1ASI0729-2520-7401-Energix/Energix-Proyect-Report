@@ -193,6 +193,18 @@ El desafío principal que enfrentamos es lograr que nuestros usuarios confíen e
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
+- Creemos que lograremos una mayor adopción inicial y retención de usuarios si ofrecemos una prueba gratuita de 30 días con acceso parcial a las funcionalidades del sistema de monitoreo. Al permitir que los propietarios exploren el valor del ahorro energético real sin compromiso, validando la efectividad antes de la suscripción, se aumentará la conversión a planes pagos al demostrar reducciones tangibles en sus facturas.
+
+- Creemos que aumentaremos la satisfacción del usuario y reduciremos las cancelaciones si los planes están claramente diferenciados y alineados con las necesidades reales de cada tipo de hogar (apartamentos pequeños, casas familiares, viviendas con alto consumo, etc.). Mediante análisis del comportamiento de consumo y entrevistas, se podrán ajustar las funcionalidades y alertas de cada plan para maximizar su percepción de valor económico.
+
+- Creemos que fortaleceremos la confianza de los usuarios y la credibilidad de la plataforma si se muestran claramente las certificaciones del sistema, datos de precisión del monitoreo y testimonios verificables de ahorros reales. Al mejorar la transparencia y accesibilidad de esta información técnica, se facilitará la toma de decisiones informadas y se reducirá la fricción en la adopción del servicio.
+
+- Creemos que aumentaremos la fidelidad y el uso recurrente si personalizamos las recomendaciones de ahorro según los patrones específicos de consumo de cada hogar. A través de algoritmos de aprendizaje automático y alertas contextuales inteligentes, se puede generar una experiencia percibida como relevante y efectiva para cada usuario individual.
+
+- Creemos que incrementaremos la conversión al plan premium si destacamos el beneficio del análisis avanzado y las proyecciones de ahorro a largo plazo como elementos diferenciales críticos para la optimización financiera. Esto se validará mediante pruebas A/B con mensajes de valor enfocados en control de gastos, tranquilidad financiera y maximización del ahorro energético.
+
+- Creemos que lograremos una expansión sostenida de nuestra base de usuarios si se implementan campañas de marketing específicas dirigidas a comunidades residenciales, redes sociales de ahorro doméstico y colaboraciones con empresas de servicios públicos. Con estas acciones y medición de tasas de adquisición, se podrá ajustar la estrategia para optimizar el retorno por canal y mejorar la conversión entre usuarios conscientes del gasto energético.
+
 #### 1.2.2.4. Lean UX Canvas.
 
 ## 1.3. Segmentos objetivos.
