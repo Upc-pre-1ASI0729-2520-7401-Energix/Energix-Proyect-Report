@@ -25,6 +25,40 @@ Nuestra misión es contribuir a la reducción de costos energéticos mediante el
 
 ## 1.2. Solution Profile
 
+En este punto del informe, se presentará información detallada sobre nuestro producto de software, incluyendo su nombre, descripción y el modelo de monetización.
+
+__Product Name__: Nuestro producto se llamará “SEMS”, un nombre compuesto por cuatro palabras en inglés: "Smart" (Inteligente) "Energy" (Energía) "Management" (Gestión) "System" (Sistema). Esta combinación refleja claramente el propósito principal de la plataforma: ofrecer un sistema eficiente y accesible para el monitoreo y control del consumo de energía en el hogar.
+
+__Product Desciption__: SEMS es una plataforma que permite a los usuarios controlar y reducir su consumo energético de manera inteligente. A través de un medidor inteligente que se conecta a los dispositivos del hogar, SEMS realiza un seguimiento en tiempo real del consumo de energía, emite alertas cuando se detectan picos de consumo, proporciona recomendaciones personalizadas y permite apagar dispositivos que estén utilizando más energía de lo necesario.
+
+__Monetización__:  
+SEMS funciona mediante un modelo de suscripción mensual o anual. Se ofrecen tres planes diseñados para adaptarse a diferentes necesidades y niveles de control del consumo energético en el hogar:
+
+- **Suscripción Básica**:  
+  Dirigido a usuarios que desean comenzar a monitorear su consumo de energía sin funciones avanzadas.
+  - Seguimiento básico del consumo energético en tiempo real
+  - Alertas de consumo elevado en dispositivos conectados
+  - Recomendaciones generales para optimizar el uso de energía
+  - Acceso a un panel web básico para visualizar el desempeño energético del hogar
+
+
+- **Suscripción Premium**:  
+  Pensado para usuarios que desean tener un control más detallado y un enfoque proactivo para el ahorro energético. Incluye todo lo del Plan Básico, más:
+  - Reportes detallados de consumo energético por dispositivo
+  - Alertas avanzadas con recomendaciones personalizadas para cada dispositivo
+  - Función para apagar dispositivos automáticamente si el consumo es excesivo
+  - Acceso a un panel web con estadísticas avanzadas y tendencias del consumo
+  - Soporte técnico prioritario
+
+
+- **Suscripción Anual**:  
+  Pensado para aquellos usuarios que desean comprometerse con un control energético constante durante todo el año, con todas las funciones premium más beneficios adicionales:
+  - Todo lo del Plan Premium
+  - Descuentos exclusivos en servicios adicionales de optimización energética
+  - Asesoría personalizada para mejorar la eficiencia energética del hogar
+  - Acceso anticipado a nuevas características y actualizaciones del sistema
+  - Recordatorios periódicos sobre el rendimiento energético y recomendaciones de mejoras
+
 ### 1.2.1 Antecedentes y problemática
 #### En las ultimas décadas, el crecimiento poblacional y el aumento de dispositivos electrónicos en los hogares han generado un incremento significativo en la demanda energética. Según el informe World Energy Outlook 2023 de la Agencia Internacional de Energía (IEA).
 #### En Perú, el Ministerio de Energía y Minas indicó en su boletín estadístico 2022 que el consumo residencial alcanzó el 28.6% del total de electricidad nacional, siendo los electrodomésticos, sistemas de iluminación y aparatos conectados permanentemente a la red los principales responsables de dicho gasto, impactando negativamente al medio ambiente y a la economía familiar. 
@@ -56,6 +90,106 @@ El desafío principal que enfrentamos es lograr que nuestros usuarios confíen e
 ¿Cómo podríamos lograr que nuestros usuarios confíen en Energix como una herramienta intuitiva, accesible y efectiva para reducir el consumo de energía eléctrica, ayudándoles a ahorrar de forma constante?
 
 #### 1.2.2.2. Lean UX Assumptions.
+
+### Business Assumptions
+
+- Creemos que nuestros usuarios tienen la necesidad de: 
+  obtener información y herramientas para reducir su consumo de energía eléctrica y, como resultado, disminuir el costo de sus facturas. Buscan una forma simple y efectiva de gestionar el uso de energía en su hogar.
+
+- Estas necesidades se pueden satisfacer con:
+  una plataforma digital que ofrezca monitoreo en tiempo real del consumo energético de los dispositivos del hogar, recomendaciones personalizadas para optimizar el gasto y alertas sobre consumos anómalos.
+
+- Nuestros usuarios iniciales son (o serán):
+  propietarios o inquilinos de viviendas (casas o apartamentos) con acceso a internet, que estén interesados en ser más sostenibles y, sobre todo, en ahorrar dinero en sus facturas de electricidad.
+
+- El valor principal que un usuario quiere obtener de nuestro servicio es:
+  tranquilidad y control financiero al tener la certeza de que están optimizando su consumo de energía y maximizando sus ahorros.
+
+- Los usuarios también pueden obtener estos beneficios adicionales:
+  mejor comprensión de sus hábitos de consumo, reducción de su huella de carbono, consejos para seleccionar electrodomésticos eficientes y mayor consciencia sobre el impacto de sus decisiones diarias.
+
+- Adquiriremos a la mayoría de nuestros usuarios a través de:
+  estrategias de marketing digital en redes sociales, colaboraciones con empresas de servicios públicos, blogs y comunidades online enfocadas en ahorro y sostenibilidad, y campañas de contenido educativo sobre ahorro energético.
+
+- Ganaremos dinero mediante:
+  un modelo de negocio de suscripción mensual o anual para el acceso a la plataforma de monitoreo y análisis, y la venta de dispositivos de hardware para la medición de consumo.
+
+- Nuestra competencia principal en el mercado será:
+  aplicaciones genéricas de seguimiento de gastos o dispositivos de automatización del hogar que no se centran exclusivamente en el ahorro energético.
+
+- Les superaremos debido a:
+  nuestra propuesta de valor enfocada en la solución integral del ahorro energético, que combina el monitoreo detallado, recomendaciones inteligentes y la visualización de los ahorros económicos en tiempo real.
+
+- El mayor riesgo para nuestro producto es:
+  la percepción inicial de que el ahorro no justifica el costo del servicio (baja tasa de conversión de la prueba gratuita) o la dificultad para convencer a los usuarios de que instalen el hardware necesario para la medición.
+
+### User Assumptions
+
+- ¿Quién es el usuario?
+  propietarios e inquilinos de viviendas urbanas con facturas eléctricas elevadas, preocupados por el constante aumento de costos energéticos y que buscan reducir gastos domésticos de manera práctica y tecnológica.
+
+- ¿Dónde encaja nuestro producto en su vida?
+  se integra en su rutina doméstica diaria como una herramienta de control financiero que les permite monitorear en tiempo real el gasto eléctrico y tomar decisiones inmediatas sobre el uso de electrodomésticos para maximizar ahorros.
+
+- ¿Qué problemas resuelve nuestro producto?
+  facturas eléctricas sorpresivamente altas, desconocimiento sobre cuáles electrodomésticos gastan más, falta de control sobre el consumo energético del hogar y dificultad para establecer hábitos de ahorro efectivos.
+
+- ¿Cuándo y cómo se utiliza nuestro producto?
+  se utiliza diariamente para revisar consumos actuales, antes de usar electrodomésticos de alto consumo, al recibir alertas de gastos anómalos y mensualmente para evaluar ahorros logrados y planificar estrategias futuras.
+
+- ¿Qué características son importantes?
+  dashboard de consumo en tiempo real, alertas automáticas de gastos elevados, recomendaciones personalizadas de ahorro, histórico de consumo por dispositivo, cálculos de costo por uso y comparativas mensuales.
+
+- ¿Cómo debería verse y comportarse nuestro producto?
+  interfaz simple e intuitiva con gráficos claros de consumo, navegación rápida y notificaciones no intrusivas pero efectivas para promover el ahorro.
+
+- El valor principal que un usuario quiere obtener es:
+  reducción tangible en sus facturas de electricidad, con la seguridad de tener control total sobre sus gastos energéticos y la capacidad de optimizar el consumo sin afectar su calidad de vida.
+
+- Los usuarios también pueden obtener estos beneficios adicionales:
+  mayor educación sobre eficiencia energética, contribución al cuidado del medio ambiente, mejor presupuesto familiar mensual y empoderamiento tecnológico para gestionar recursos domésticos.
+
+- El mayor riesgo para el usuario es:
+  que el costo del sistema no se compense con los ahorros generados, que sea demasiado complicado de instalar o usar, o que las recomendaciones no sean efectivas para su estilo de vida específico.
+
+### User Outcomes
+
+- Ahorro económico tangible y predecible: Los usuarios podrán reducir sus facturas eléctricas de manera consistente, obteniendo un control financiero real sobre sus gastos energéticos desde su dispositivo móvil.
+
+- Monitoreo inteligente y preventivo: Los propietarios podrán identificar patrones de consumo ineficientes antes de que impacten significativamente en sus facturas, evitando sorpresas económicas desagradables.
+
+- Educación energética personalizada: Recibirán recomendaciones específicas adaptadas a sus hábitos de consumo y tipo de vivienda, facilitando la adopción de prácticas de ahorro más efectivas.
+
+- Educación energética personalizada: Recibirán recomendaciones específicas adaptadas a sus hábitos de consumo y tipo de vivienda, facilitando la adopción de prácticas de ahorro más efectivas.
+
+### Business Outcomes
+
+- Conversión de prueba gratuita a planes pagos: Se espera que al menos un 25% de los usuarios que inicien la prueba gratuita se conviertan en suscriptores del plan premium tras 30 días de uso y evidenciar ahorros reales en sus facturas.
+
+- Retención de usuarios a largo plazo: Mantener una tasa de retención del 70% de los suscriptores activos durante el primer trimestre, mediante la mejora continua de la plataforma y la incorporación de nuevas funcionalidades basadas en feedback.
+
+- Posicionamiento como plataforma confiable de ahorro energético: Que el 85% de los usuarios activos afirmen que han reducido sus facturas eléctricas y recomendarían el servicio a otros propietarios preocupados por sus gastos energéticos.
+
+- Alianzas con empresas de servicios públicos y retailers de electrodomésticos: Alcanzar al menos 8 alianzas estratégicas en los primeros seis meses, que permitan expandir el alcance y ofrecer descuentos en dispositivos eficientes a través de la plataforma.
+
+### Features Assumptions
+
+- Monitoreo en tiempo real del consumo energético
+- Dashboard interactivo con gráficos de consumo por dispositivo
+- Alertas automáticas cuando se detecten picos de consumo anómalos
+- Seguimiento de costos por hora y proyecciones de factura mensual
+- Recomendaciones inteligentes de ahorro
+- Consejos personalizados basados en patrones de uso específicos
+- Sugerencias de horarios óptimos para usar electrodomésticos de alto consumo
+- Comparativas de eficiencia entre diferentes dispositivos del hogar
+- Análisis y reportes detallados
+- Histórico de consumo con tendencias mensuales y anuales
+- Gráficos de ahorros logrados y potencial de optimización
+- Reportes exportables para análisis personal o profesional
+- Gestión inteligente de dispositivos
+- Identificación automática de electrodomésticos conectados
+- Control remoto básico de dispositivos compatibles
+- Programación de encendido y apagado según tarifas eléctricas
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
