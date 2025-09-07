@@ -34,10 +34,10 @@ Espacios Inteligentes Perú es una plataforma que se especializa en la implement
     </tr>
 <tr class="header-row">
     <td colspan="2"><strong>Producto</strong></td>
-    <td class="startup-col"><strong>Energix</strong><br><img src="assets/energix-logo.png" style="width: 100px; height: auto; display: block; margin: 5px auto;"></td>
-    <td class="competitor-col"><strong>LupBak</strong><br><img src="assets/lupbak-logo.png" style="width: 50px; height: auto; display: block; margin: 5px auto;"></td>
-    <td class="competitor-col"><strong>Refoss</strong><br><img src="assets/refoss-logo.png" style="width: 50px; height: auto; display: block; margin: 5px auto;"></td>
-    <td class="competitor-col"><strong>Espacios Inteligentes Perú</strong><br><img src="assets/EIP-logo.png" style="width: 100px; height: auto; display: block; margin: 5px auto;"></td>
+    <td class="startup-col"><strong>Energix</strong><br><img src="../assets/energix-logo.png" style="width: 100px; height: auto; display: block; margin: 5px auto;"></td>
+    <td class="competitor-col"><strong>LupBak</strong><br><img src="../assets/lupbak-logo.png" style="width: 50px; height: auto; display: block; margin: 5px auto;"></td>
+    <td class="competitor-col"><strong>Refoss</strong><br><img src="../assets/refoss-logo.png" style="width: 50px; height: auto; display: block; margin: 5px auto;"></td>
+    <td class="competitor-col"><strong>Espacios Inteligentes Perú</strong><br><img src="../assets/EIP-logo.png" style="width: 100px; height: auto; display: block; margin: 5px auto;"></td>
 </tr>
 
 <tr>
