@@ -136,6 +136,30 @@ Espacios Inteligentes Perú es una plataforma que se especializa en la implement
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
+### **Control remoto de dispositivos**  
+**• Estrategia:** Posicionar la capacidad de apagar dispositivos remotamente como diferenciador clave.  
+**• Táctica:** Demostrar control inmediato desde cualquier ubicación.
+
+### **Monitoreo en tiempo real con alertas**  
+**• Estrategia:** Usar el seguimiento constante de picos y caídas de energía para generar valor inmediato.  
+**• Táctica:** Alertas automáticas ante consumos inusuales como ventaja sobre soluciones pasivas.
+
+### **Simplicidad de instalación**  
+**• Estrategia:** Contrastar la facilidad de uso de un medidor inteligente vs. soluciones complejas del mercado.  
+**• Táctica:** Instalación inmediata sin técnicos ni configuraciones complicadas.
+
+### **Informes personalizados semanales**  
+**• Estrategia:** Diferenciarse con reportes orientados a decisiones vs. solo datos técnicos.  
+**• Táctica:** Información procesada que guía hacia uso más eficiente.
+
+### **Reducción comprobada del 20-30%**  
+**• Estrategia:** Usar el dato documentado de ahorro como promesa cuantificable.  
+**• Táctica:** Comunicar porcentaje específico de reducción en gasto mensual vs. promesas vagas de la competencia.
+
+### **Enfoque en el mercado peruano**  
+**• Estrategia:** Aprovechar conocimiento local del contexto de consumo residencial (28.6% del total nacional).  
+**• Táctica:** Solución adaptada específicamente a patrones de uso en hogares peruanos.
+
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas
