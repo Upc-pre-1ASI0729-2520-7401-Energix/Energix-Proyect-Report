@@ -30,6 +30,17 @@ Nuestra misión es contribuir a la reducción de costos energéticos mediante el
 #### En Perú, el Ministerio de Energía y Minas indicó en su boletín estadístico 2022 que el consumo residencial alcanzó el 28.6% del total de electricidad nacional, siendo los electrodomésticos, sistemas de iluminación y aparatos conectados permanentemente a la red los principales responsables de dicho gasto, impactando negativamente al medio ambiente y a la economía familiar. 
 #### En los hogares, muchas veces no se cuentan con información clara sobre cuánta energía consume cada artefacto, lo que dificulta tomar desiciones para reducir el gasto. A esto se suma la falta de hábitos de consumo eficiente, como el uso de focos LED o la desconexión de equipos en reposo. Además, la mayoría de usuarios solo conoce su consumo mediante el recibo mensual.
 #### Frente a esta problemática, surge Energix, una plataforma que brinda a los usuarios informes personalizados, alertas automáticas ante consumos inusuales y monitoreo en tiempo real, permitíendoles gestionar de manera efectiva el usuo energético de cada uno de sus dispositivos.
+
+| Elemento | Descripción |
+|----------|-------------|
+| **Who (Quién)**   | Los principales afectados son los usuarios residenciales, entre ellos se encuentran amas de casa encargadas de la administración del hogar, propietarios con múltiples dispositivos electrónicos o inteligentes, y estudiantes que alquilan habitaciones y deben controlar sus gastos. Todos comparten la necesidad de tener mayor control y visibilidad sobre el uso de la energía.     |
+| **What (Qué)**   | El problema del uso ineficiente de energía en los hogares, ocasionado por la falta de información específica sobre el consumo de cada dispositivo, hábitos pocos sostenibles y la carencia de herramientas que permitan un control inmediato, lo que se traduce en mayores gastos mensuales.     |
+| **Where (Dónde)**   | La problemática se presenta principalmente en el Perú, donde muchos hogares no cuentan con herramientas para gestionar su consumo eléctrico. Esta situación es especialmente visible en zonas urbanas, donde el uso de dispositivos electrónicos es mayor.     |
+| **When (Cuándo)**   | En un contexto actual de creciente demanda energética en el ámbito doméstico, impulsada por la digitalización del estilo de vida y la incorporación constante de nuevos dispositivos tecnológicos en el hogar.     |
+| **Why (Por qué)**   | Muchos usuarios y familias no cuentan con medios para identificar qué aparatos generan mayor consumo, lo que dificulta la toma de decisiones informadas.     |
+| **How (Cómo)**   | Mediante una plataforma digital que permite monitorear en tiempo real el uso energético de cada equipo, generar alertas ante consumos elevados y entregar reportes semanales que orientan al usuario hacia un uso más eficiente.     |
+| **How Much (Cuánto)**   | El uso eficiente de la energía permite reducir entre un 20% y 30% el gasto mensual de electricidad. En zonas con mayor dependencia de dispositivos electrónicos, el impacto económico puede ser aún mayor, contribuyendo además a la reducción de emisiones y a una gestión más responsable de recursos.     |
+
 ### 1.2.2 Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements.
