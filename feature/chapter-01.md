@@ -11,15 +11,16 @@ Nuestra misión es contribuir a la reducción de costos energéticos mediante el
 - Logo de la Startup:
 
 <img src="../assets/energix-logo.png" alt="Logo de Energix" width="200"/>
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Nombre | Descripción |
-|--------|-------------|
-| Yeira Shari | Datos 1     |
-| Mateo Ítalo | Datos 2     |
-| Iker Gabriel | Datos 3     |
-| Alexis | Datos 4     |
-| Andrés Rodrigo | Datos 5     |
+| Nombre | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Yeira Shari | Mi nombre es Yeira Shari Huaman Olivos, tengo 22 años y me encuentro actualmente cursando el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona a la cual le gusta trabajar en equipo, responsable, participativa y cumplidora. En cuanto a mi equipo, pienso aportar con todas mis cualidades como la responsabilidad y conocimientos ganados dentro de la carrera como la programación en C++ y Python.                                              |
+| Mateo Ítalo | Amo el CS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ![Iker-Barturen.jpeg](../assets/Iker-Barturen.jpeg)Iker Gabriel | Mi nombre es Iker, tengo 19 años y actualmente estoy cursando el 6to ciclo de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Considero que soy alguien responsable, cumple con los trabajos que se me encargan a tiempo y se tengo la posibilidad apoyo a mis compañeros con sus trabajos, trabajó bien en equipo y puedo aportar mis conocimientos con el lenguaje de programación C++, C# y conocimientos basicos de python, también sobre los frameworks de Javascript react, astro y angular. |
+| Alexis | Soy Alexis Encalada Salazar, actualmente tengo 21 años, Curso el 5to ciclo de la carrera de ingeniería de software en la universidad peruana de ciencias aplicadas. Considero que soy alguien responsable, así cómo perseverante tanto en trabajos solitarios como en equipo. Pienso ayudar a mi equipo con mis conocimientos en los lenguajes de programación C++ y python y también en edición de videos                                                                                                                            |
+| Andrés Rodrigo | Mi nombre es Andrés Torres, actualmente tengo 19 años y estoy cursando el quinto ciclo de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Considero que tengo buen nivel en el lenguaje de programación de C++ y un nivel básico en Python. Además, soy un alumno responsable y que aporta en los trabajos grupales. Estoy dispuesto totalmente a colaborar con mi grupo para realizar un muy buen trabajo de curso y amo a PESO DEIDAD.                                                           |
 
 
 ## 1.2. Solution Profile
