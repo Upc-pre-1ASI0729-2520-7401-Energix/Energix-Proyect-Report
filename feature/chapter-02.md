@@ -213,7 +213,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSf50lRgCkX84aNEuHV86LSFNVgvwaYceiN8OfUQ
 #### 2.3.1. User Personas
 DONE , MISSING IMAGES .Waiting for interviews to be done.
 ### 2.3.2. User Task Matrix
-
+Para el desarrollo del proyecto, se ha compilado un User Task Matrix, el cual resume las actividades esenciales de los dos grupos de personas investigados. Este recurso sirve para identificar las acciones principales de cada tipo de usuario, además de evaluar la periodicidad y la importancia que cada uno le atribuye. El conocimiento extraído de este análisis es crucial para definir las prioridades en el diseño de la herramienta digital, lo que asegura que su concepción esté alineada con las exigencias auténticas de los usuarios.
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
