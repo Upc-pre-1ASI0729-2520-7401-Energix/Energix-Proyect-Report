@@ -32,6 +32,24 @@
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
+- Los SEO Tag y Meta Tags ayudarán a que la página estática y la aplicación web sea posible de analizar fácilmente y se pueda gestionar de manera eficiente y optima.
+
+
+- **Título** El título de nuestra Staruo se definirá de la siguiente manera:
+- ```html 
+  <title>ENERGIX</title>
+
+- **Descripción** Las descripciones de nuestra Starup se definirá de la siguiente manera:
+- ```html 
+  <meta name="description" content="Energix es una aplicación que ayudará a los usuarios a poder optimizar sus consumos de energía"/>
+
+- **Keywords**: Algunas Keywords como "viewport" se definirá de la siguiente manera:
+- ```html 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+-**Author**: Nuestra marca será registrada en nuestra página de la siguiente manera:
+- ```html 
+  <meta name="copiright" content="© 2024 ENERGIX. Todos los derechos reservados"/>
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
 
