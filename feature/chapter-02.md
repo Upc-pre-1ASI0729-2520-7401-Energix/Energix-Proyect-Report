@@ -1,6 +1,6 @@
-## Capítulo II: Requirements Elicitation & Analysis
+# Capítulo II: Requirements Elicitation & Analysis
 
-### 2.1. Competidores
+## 2.1. Competidores
 
 Llevaremos a cabo este analisis competitivo, para poder darnos cuenta de nuestras ventajas y desventajas dentro del mercado con competidores que cuentan con un modelo de negocio similiar o parecido al nuestro.
 
@@ -25,7 +25,7 @@ Espacios Inteligentes Perú es una plataforma que se especializa en la implement
 
 ---
 
-#### 2.1.1. Análisis competitivo
+### 2.1.1. Análisis competitivo
 
 <table>
     <tr class="question-row">
@@ -134,53 +134,57 @@ Espacios Inteligentes Perú es una plataforma que se especializa en la implement
 </tr>
 </table>
 
-#### 2.1.2. Estrategias y tácticas frente a competidores
+### 2.1.2. Estrategias y tácticas frente a competidores
 
-### **Control remoto de dispositivos**  
+## **Control remoto de dispositivos**  
 **• Estrategia:** Posicionar la capacidad de apagar dispositivos remotamente como diferenciador clave.  
 **• Táctica:** Demostrar control inmediato desde cualquier ubicación.
 
-### **Monitoreo en tiempo real con alertas**  
+## **Monitoreo en tiempo real con alertas**  
 **• Estrategia:** Usar el seguimiento constante de picos y caídas de energía para generar valor inmediato.  
 **• Táctica:** Alertas automáticas ante consumos inusuales como ventaja sobre soluciones pasivas.
 
-### **Simplicidad de instalación**  
+## **Simplicidad de instalación**  
 **• Estrategia:** Contrastar la facilidad de uso de un medidor inteligente vs. soluciones complejas del mercado.  
 **• Táctica:** Instalación inmediata sin técnicos ni configuraciones complicadas.
 
-### **Informes personalizados semanales**  
+## **Informes personalizados semanales**  
 **• Estrategia:** Diferenciarse con reportes orientados a decisiones vs. solo datos técnicos.  
 **• Táctica:** Información procesada que guía hacia uso más eficiente.
 
-### **Reducción comprobada del 20-30%**  
+## **Reducción comprobada del 20-30%**  
 **• Estrategia:** Usar el dato documentado de ahorro como promesa cuantificable.  
 **• Táctica:** Comunicar porcentaje específico de reducción en gasto mensual vs. promesas vagas de la competencia.
 
-### **Enfoque en el mercado peruano**  
+## **Enfoque en el mercado peruano**  
 **• Estrategia:** Aprovechar conocimiento local del contexto de consumo residencial (28.6% del total nacional).  
 **• Táctica:** Solución adaptada específicamente a patrones de uso en hogares peruanos.
 
-### 2.2. Entrevistas
+## 2.2. Entrevistas
 
-#### 2.2.1. Diseño de entrevistas
+Las entrevistas estarán dirigidas a propietarios de vivienda y estudiantes que alquilan, con el objetivo de comprender sus necesidades específicas en el acceso a información sobre arrendamientos, condiciones de vivienda, mantenimiento y servicios, así como conocer más sobre sus gastos.
 
-#### 2.2.2. Registro de entrevistas
+### 2.2.1. Diseño de entrevistas
 
-#### 2.2.3. Análisis de entrevistas
+####
 
-### 2.3. Needfinding
+### 2.2.2. Registro de entrevistas
+
+### 2.2.3. Análisis de entrevistas
+
+## 2.3. Needfinding
 
 #### 2.3.1. User Personas
 DONE , MISSING IMAGES .Waiting for interviews to be done.
-## 2.3.2. User Task Matrix
+### 2.3.2. User Task Matrix
 
-## 2.3.3. User Journey Mapping
+### 2.3.3. User Journey Mapping
 
-#### 2.3.4. Empathy Mapping
+### 2.3.4. Empathy Mapping
 
-#### 2.3.5. As-is Scenario Mapping
+### 2.3.5. As-is Scenario Mapping
 
-### 2.4. Ubiquitous Language
+## 2.4. Ubiquitous Language
 - **SEMS**: Nombre del producto compuesto por cuatros palabras en inglés: "Smart" (Inteligente), "Energy"(Energía), "Management"(Gestión), "System"(Sistema).
 
 - **Suscripción**: Un pago asociado a la funcionalidad de **SEMS** que ofrece tres planes diseñados para adaptarse a diferentes necesidades y niveles de consumo.
