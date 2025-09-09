@@ -209,7 +209,7 @@ PROPIETARIOS
 
 ENTREVISTA 1
 
-captura
+![Entrevista-1-Propietario.png](../assets/Entrevista-1-Propietario.png)
 
 Likn:
 
@@ -217,15 +217,24 @@ Inicia:
 
 Duración:
 
-Nombre:
+Nombre: Yusnury Hilda Vivar Olivos
  
-Edad:
+Edad: 28 años
 
-Distrito:
+Distrito: San Miguel
 
-Resumen:
+Resumen: Yusnury Vivar trabaja en el área receptivo de una agencia de viajes y vive en una casa propia con su familia. Considera muy importante la eficiencia energética y en su hogar aplican prácticas como apagar luces, usar focos LED y desconectar cargadores. Aunque solo revisa su recibo de luz a fin de mes, reconoce que electrodomésticos como la refrigeradora, lavadora/secadora y computadoras elevan su consumo. Le interesan marcas como Xiaomi, TP-Link y Amazon Alexa por su accesibilidad y compatibilidad. Le gustaría una solución que le ofrezca reportes claros por aparato y que sea fácil de usar, con soporte y garantía de ahorro, ya que estaría dispuesta a adoptar nuevas tecnologías que aporten comodidad, control y cuidado del medio ambiente.
 
 Información extra:
+
+* Dispositivos:
+    + iPhone (uso constante).
+    + Computadora y laptop (para trabajo).
+
+* Personalidad:
+
+    + Tiene alta disposición a innovar y probar nuevas tecnologías para el hogar.
+    + Su motivación va más allá del ahorro económico: le interesa el cuidado del medio ambiente, la comodidad y la modernidad.
 
 ENTREVISTA 2
 
