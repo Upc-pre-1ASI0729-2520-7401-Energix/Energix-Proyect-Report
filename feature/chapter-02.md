@@ -205,6 +205,147 @@ https://docs.google.com/forms/d/e/1FAIpQLSf50lRgCkX84aNEuHV86LSFNVgvwaYceiN8OfUQ
 ####
 
 ### 2.2.2. Registro de entrevistas
+PROPIETARIOS
+
+ENTREVISTA 1
+
+captura
+
+Likn:
+
+Inicia:
+
+Duración:
+
+Nombre:
+ 
+Edad:
+
+Distrito:
+
+Resumen:
+
+Información extra:
+
+ENTREVISTA 2
+
+captura
+
+Likn:
+
+Inicia:
+
+Duración:
+
+Nombre:
+
+Edad:
+
+Distrito:
+
+Resumen:
+
+Información extra:
+
+ENTREVISTA 3
+
+captura
+
+Likn:
+
+Inicia:
+
+Duración:
+
+Nombre:
+
+Edad:
+
+Distrito:
+
+Resumen:
+
+Información extra:
+
+ESTUDIANTES
+
+ENTREVISTA 1
+
+![Entrevista-1-Estudiante.jpeg](../assets/Entrevista-1-Estudiante.jpeg)
+
+Likn: https://youtu.be/dwsKceQFBik
+
+Inicia: 0:02
+
+Duración: 5:20
+
+Nombre: Johnny Ricardo Mallqui Cueva
+
+Edad: 19
+
+Distrito: Chorrillos
+
+Resumen: Johnny Mallqui (19 años) estudia en la UPC y alquila un cuarto en Chorrillos, se relaciaona a menudo con la tecnología ya que estudia ingeniería de Sistemas. Nos comento que tiene un presupuesto mensual, incluyendo alquiler y servicios. Aunque ha intentado reducir su gasto de energía electrica apagando luces y desconectando dispositivos, a menudo se sorprende con facturas altas. Le gustaría una aplicación que le muestre su consumo en tiempo real con los picos altos y bajos, que le envíe alertas para evitar sorpresas y estaría dispuesto a cambiar sus hábitos para tratar ahorrar más. 
+
+Información extra:
+
+    Dispositivos:
+    - Samsung (uso constante).
+    - Computadora (para estudios).
+    
+    Personalidad:
+    - Carrera: Ingeniería de Sistemas.
+    - Estresado por las facturas elevadas, quiere reducir ese gasto.
+    - Prefiere una plataforma en la cual pueda monitorear el consumo de energía.
+
+ENTREVISTA 2
+
+![Entrevista-2-Estudiante.jpeg](../assets/Entrevista-2-Estudiante.jpeg)
+
+Likn: https://youtu.be/6Z5BsOlj-4s
+
+Inicia: 0:02
+
+Duración: 4:36
+
+Nombre: Stephano José Espinoza Cueva
+
+Edad: 20
+
+Distrito: La Victoria
+
+Resumen: Stephano Espinoza (20 años) estudia en la UPC y alquila un departamento en La Victoria con amigos, se encuentra cursando la carrera de ingenieria de Software con sus amigos, cuya carrera esta relaciona con un ambiente tecnólogico. Ellos se dividen los gastos, pero a veces se sorprenden con facturas elevadas. El nos comenta que, como medidas para reducir los gastos, desconectan dispositivos, no usan frecuentemente dispositivos de alto consumo y tratan de usar luces LED. A él gustaría una aplicación que le envíe alertas para estar prevenido si es un dispositivo esta consumiendo demasiada energía, que a traves del consumo genere un historial con un balance para darle un feedback con posibles sugerencias.
+
+    Dispositivos:
+    - iPhone (uso constante).
+    - Computadora y laptop (para estudios).
+    
+    Personalidad:
+    - Carrera: Ingeniería de Software.
+    - Preocupado por el consumo excesivo de energía en su departamento.
+    - Prefiere una aplicación que le alerte cuando hay un consumo excesivo y que le de consejos de mejora.
+
+Información extra:
+
+ENTREVISTA 3
+
+captura
+
+Likn:
+
+Inicia:
+
+Duración:
+
+Nombre:
+
+Edad:
+
+Distrito:
+
+Resumen:
+
+Información extra:
 
 ### 2.2.3. Análisis de entrevistas
 
