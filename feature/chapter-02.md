@@ -354,6 +354,15 @@ Distrito: Pueblo Libre
 
 Resumen:
 
+    Dispositivos:
+    - Samsung (uso constante).
+    - Computadora y laptop (para estudios).
+    
+    Personalidad:
+    - Carrera: Ingeniería de Sistemas.
+    - me dio pereza pensar
+    - mañana lo hago zzz
+
 Información extra:
 
 ### 2.2.3. Análisis de entrevistas
