@@ -340,11 +340,11 @@ ENTREVISTA 3
 
 ![Entrevista-3-Estudiante.jpeg](../assets/Entrevista-3-Estudiante.jpeg)
 
-Link: mañana
+Link: https://youtu.be/rfHp-bXxHec
 
-Inicia: 0:01
+Inicia: 0:00
 
-Duración:
+Duración: 3:00
 
 Nombre: Simón Gabriel Molina Chirinos
 
