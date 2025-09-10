@@ -211,7 +211,7 @@ ENTREVISTA 1
 
 ![Entrevista-1-Propietario.png](../assets/Entrevista-1-Propietario.png)
 
-Likn:
+Link:
 
 Inicia:
 
@@ -240,7 +240,7 @@ ENTREVISTA 2
 
 captura
 
-Likn:
+Link:
 
 Inicia:
 
@@ -260,7 +260,7 @@ ENTREVISTA 3
 
 captura
 
-Likn:
+Link:
 
 Inicia:
 
@@ -282,7 +282,7 @@ ENTREVISTA 1
 
 ![Entrevista-1-Estudiante.jpeg](../assets/Entrevista-1-Estudiante.jpeg)
 
-Likn: https://youtu.be/dwsKceQFBik
+Link: https://youtu.be/dwsKceQFBik
 
 Inicia: 0:02
 
@@ -311,7 +311,7 @@ ENTREVISTA 2
 
 ![Entrevista-2-Estudiante.jpeg](../assets/Entrevista-2-Estudiante.jpeg)
 
-Likn: https://youtu.be/6Z5BsOlj-4s
+Link: https://youtu.be/6Z5BsOlj-4s
 
 Inicia: 0:02
 
@@ -338,19 +338,19 @@ Información extra:
 
 ENTREVISTA 3
 
-captura
+![Entrevista-3-Estudiante.jpeg](../assets/Entrevista-3-Estudiante.jpeg)
 
-Likn:
+Link: mañana
 
-Inicia:
+Inicia: 0:01
 
 Duración:
 
-Nombre:
+Nombre: Simón Gabriel Molina Chirinos
 
-Edad:
+Edad: 19
 
-Distrito:
+Distrito: Pueblo Libre
 
 Resumen:
 
