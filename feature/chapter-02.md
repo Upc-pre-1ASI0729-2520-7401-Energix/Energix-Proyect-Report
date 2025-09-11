@@ -393,6 +393,16 @@ Para el desarrollo del proyecto, se ha compilado un User Task Matrix, el cual re
 
 ### 2.3.4. Empathy Mapping
 
+El Empathy Mapping nos ayudará a crear perfiles detallados de los User Persona y a desarrollar una descripción desde su propia perspectiva, comprendiendo mejor sus pensamientos, emociones, necesidades y comportamientos
+
+Segmento objetivo #1: Propietarios
+
+![Empathy-map1.png](../assets/Empathy-map1.png)
+
+Segmento objetivo #2: Estudiantes
+
+![Empathy-map2.png](../assets/Empathy-map2.png)
+
 ### 2.3.5. As-is Scenario Mapping
 
 ## 2.4. Ubiquitous Language
