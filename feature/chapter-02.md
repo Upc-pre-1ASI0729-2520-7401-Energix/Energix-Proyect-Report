@@ -424,11 +424,11 @@ El Empathy Mapping nos ayudará a crear perfiles detallados de los User Persona 
 
 Segmento objetivo #1: Propietarios
 
-![Empathy-map1.png](../assets/Empathy-map1.png)
+![Empathy-map-1.png](../assets/Empathy-map-1.png)
 
 Segmento objetivo #2: Estudiantes
 
-![Empathy-map2.png](../assets/Empathy-map2.png)
+![Empathy-map-2.png](../assets/Empathy-map-2.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
