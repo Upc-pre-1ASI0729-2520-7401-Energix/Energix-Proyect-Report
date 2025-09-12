@@ -377,6 +377,8 @@ Información extra:
 
 ## 2.3. Needfinding
 
+Utilizando la información recolectada, hemos realizado un análisis de las necesidades de los usuarios, que nos permitirá identificar y priorizar las funcionalidades que se incluirán en la plataforma. El resultado es la elaboración de los arquetipos User Persona, que representan a los usuarios finales de la plataforma, el User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
+
 #### 2.3.1. User Personas
 - En esta sección del documento, se presentarán perfiles ficticios que representan a los grupos de interés intrevistados. La información proporcionada incluye datos demográficos, rasgos de personalidad, motivaciones, preferencias, metas, desafíos y comportamientos típicos. Estos detalles están basados en las entrevistas realizadas previamente. Se han utilizado herramientas de UXPressia para facilitar la elaboración de estos perfiles 
 
