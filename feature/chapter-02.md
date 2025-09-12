@@ -432,9 +432,9 @@ Segmento objetivo #2: Estudiantes
 
 ![Empathy-map-2.png](../assets/Empathy-map-2.png)
 
-### 2.3.5. As-is Scenario Mapping
+## 2.4. Big Picture Event Storming.
 
-## 2.4. Ubiquitous Language
+## 2.5. Ubiquitous Language
 - **SEMS**: Nombre del producto compuesto por cuatros palabras en inglés: "Smart" (Inteligente), "Energy"(Energía), "Management"(Gestión), "System"(Sistema).
 
 - **Suscripción**: Un pago asociado a la funcionalidad de **SEMS** que ofrece tres planes diseñados para adaptarse a diferentes necesidades y niveles de consumo.
