@@ -98,6 +98,43 @@ Esta sección detalla los lineamientos visuales para los componentes de la landi
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
+
+Al acceder a la plataforma web de Energix, los usuarios pueden explorar los servicios, productos y planes de suscripción. La página está diseñada para informar sobre los beneficios de la gestión energética inteligente y convertir visitantes en clientes.
+
+#### Navbar (Menú Principal):
+
+- **"Inicio"**: Redirige a la sección principal de bienvenida de la página.
+- **"Beneficios"**: Muestra las ventajas clave del sistema, como el ahorro y el monitoreo.
+- **"Productos"**: Presenta el hardware disponible, como el "Enchufe Inteligente".
+- **"Suscripciones"**: Detalla los diferentes planes de pago (Básico, Premium, Anual).
+- **"Nuestro Equipo"**: Presenta a los miembros del equipo detrás de Energix.
+- **"FAQ"**: Lleva a la sección de preguntas frecuentes.
+- **"EN/ES":** Botón para alternar el idioma de la página entre inglés y español.
+- **"Iniciar Sesión"**: Botón para que los usuarios registrados accedan a la plataforma SEMS.
+
+#### Secciones Principales:
+
+- **"¡Energix tiene la solución!"**: Encabezado principal de bienvenida que capta la atención del usuario.
+- **"¿Por qué Elegir Energix?"**: Sección que detalla las características principales: "Ahorro Energético", "Monitoreo en Tiempo Real", "Cuidado del Medio Ambiente", "Soporte Técnico", "Alertas Personalizadas" y "Acceso a SEMS".
+- **"Productos"**: Presentación de 5 prodcutos que pueden ayudarte en la tarea de ahorrar y de alientan a la acción de "Comprar".
+- **"Suscripciones"**: Tabla comparativa de los planes "Básico", "Premium" y "Anual", cada uno con un botón de "Suscribirse".
+- **"About The Team"**: Describe la "Misión", "Visión" y "Valores" de la Startup.
+- **"Nuestro Equipo"**: Muestra los perfiles de los integrantes del proyecto.
+- **"Preguntas Frecuentes"**: Área interactiva para resolver las dudas más comunes de los usuarios.
+
+#### Formulario de Suscripción (Footer):
+
+- **"Tu correo"**: Campo para que el usuario ingrese su dirección de email.
+- **"Enviar"**: Botón para suscribirse al boletín o solicitar información.
+
+#### Pie de Página:
+
+- **"Opciones sobre el ahorro de energía"**: Enlaces a artículos o guías sobre eficiencia energética.
+- **"Beneficios de ahorrar energía"**: Acceso rápido a información sobre las ventajas económicas y ecológicas.
+- **"Más información"**: Enlaces a recursos externos y temas de interés relacionados.
+- **"Contáctanos"**: Sección con el formulario de suscripción por correo.
+- **"Redes Sociales"**: Iconos que enlazan a los perfiles sociales de la empresa.
+
 ### 4.2.3. SEO Tags and Meta Tags
 - Los SEO Tag y Meta Tags ayudarán a que la página estática y la aplicación web sea posible de analizar fácilmente y se pueda gestionar de manera eficiente y optima.
 
