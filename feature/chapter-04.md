@@ -212,6 +212,15 @@ Estructura jerárquica clara: Sidebar (categorías principales) → Body (conten
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+![Wireframe-Inicio.png](../assets/Wireframe-Inicio.png)
+![Wireframe-Beneficios.png](../assets/Wireframe-Beneficios.png)
+![Wireframe-Producto.png](../assets/Wireframe-Producto.png)
+![Wireframe-Suscripcion.png](../assets/Wireframe-Suscripcion.png)
+![Wireframe-About-the-Team.png](../assets/Wireframe-About-the-Team.png)
+![Wireframe-Nuestro-Equipo.png](../assets/Wireframe-Nuestro-Equipo.png)
+![Wireframe-Footer.png](../assets/Wireframe-Footer.png)
+
 ### 4.3.2. Landing Page Mock-up
 
 ![Barra-de-Navegacion.png](../assets/Barra-de-Navegacion.png)
