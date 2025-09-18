@@ -230,13 +230,13 @@ Estructura jerárquica clara: Sidebar (categorías principales) → Body (conten
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams
 - User goal 1: Iniciar sesión para poder obversar el dashboard informativo
-  ![User-Flow-1.png](../assets/User-Flow-1.png)
+![Users-Flow-1.png](../assets/Users-Flow-1.png)
 - User goal 2: Entrar al dashboard informativo para luego entrar en la opción de Reportes y descargar mi reporte generado a lo largo del mes
-  ![User-Flow-2.png](../assets/User-Flow-2.png)
+![Users-Flow-2.png](../assets/Users-Flow-2.png)
 - User goal 3: Comprar un producto desde la página principal rellenando información del medio de pago elegido.
-  ![User-Flow-3.png](../assets/User-Flow-3.png)
+![Users-Flow-3.png](../assets/Users-Flow-3.png)
 - User goal 4: Entrar al dashboard interactivo para luego ir a la opción de consumo y poder visualizar mi historial de consumo energético a lo largo de los últimos 3 meses
-  ![User-Flow-4.png](../assets/User-Flow-4.png)
+![Users-Flow-4.png](../assets/Users-Flow-4.png)
 #
 - Happy y Unhappy paths de cada User goal:
 - **User goal 1**:
