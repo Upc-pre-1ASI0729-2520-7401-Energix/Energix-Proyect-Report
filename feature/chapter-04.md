@@ -100,6 +100,34 @@ Esta sección detalla los lineamientos visuales para los componentes de la landi
 En esta seccion mostramos las decisiones de Arquitectura de Informacion para organizar el contenido de nuestra aplicacion de tal manera que los usuarios puedan tener una experiencia eficiente. Se incluyen las secciones de Organization Systems, Labeling Systems, Navigation Systems y Searching Systems.
 
 ### 4.2.1. Organization Systems
+El sistema de organización de Energix está diseñado para que los usuarios recorran la Landing Page y la aplicación de forma clara, lógica y fluida. El contenido se estructura bajo un modelo jerárquico y secuencial, priorizando la simplicidad y la rapidez en el acceso a la información.
+
+Jerarquía de información:
+La página y la aplicación presentan los contenidos desde lo más general a lo más específico. El usuario inicia con un mensaje de bienvenida y una propuesta de valor clara, seguido de secciones que explican los beneficios, productos, planes de suscripción y, finalmente, información del equipo y soporte.
+
+Progresión natural del recorrido:
+El recorrido está diseñado como una narrativa guiada:
+
+Inicio / Bienvenida → Captar la atención del usuario con el mensaje central.
+
+Beneficios → Mostrar el valor agregado y los motivos para elegir Energix.
+
+Productos → Presentar soluciones tangibles para el ahorro energético.
+
+Suscripciones → Facilitar la comparación y la decisión de compra con tablas claras.
+
+Equipo y FAQ → Generar confianza y resolver dudas antes de tomar acción.
+
+Footer / Contacto → Cierre funcional con recursos adicionales y vías de comunicación.
+
+Categorías claras y consistentes:
+Los contenidos se agrupan en categorías fácilmente identificables (Beneficios, Productos, Suscripciones, Equipo, FAQ), lo que reduce la carga cognitiva del usuario y le permite ubicar rápidamente la información que necesita.
+
+Apoyo visual y de interacción:
+Cada sección cuenta con elementos visuales (íconos, ilustraciones, tarjetas) y llamados a la acción (botones principales y secundarios) que guían al usuario a través del flujo de navegación sin necesidad de sobrecargarlo con texto excesivo.
+
+Aplicación web:
+Dentro de la app, el sistema de organización se basa en un menú lateral que agrupa las funciones principales (Dashboard, Reportes, Consumo, Configuración, Perfil). Esto permite que el usuario mantenga un control claro de su progreso y pueda acceder rápidamente a las herramientas según sus metas.
 ### 4.2.2. Labeling Systems
 
 Al acceder a la plataforma web de Energix, los usuarios pueden explorar los servicios, productos y planes de suscripción. La página está diseñada para informar sobre los beneficios de la gestión energética inteligente y convertir visitantes en clientes.
