@@ -250,6 +250,15 @@ Estructura jerárquica clara: Sidebar (categorías principales) → Body (conten
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
+
+El diagrama de contexto de SEMS (Smart Energy Management System) muestra la visión más externa de la plataforma y posiciona a sus actores principales junto con los sistemas con los que se conecta. En este nivel se identifican tres roles clave: el propietario de vivienda, que busca monitorear y optimizar el consumo energético de su hogar; el estudiante que alquila, interesado en reducir gastos y simplificar el control compartido de la energía; y el soporte técnico, encargado de acompañar a los usuarios en la resolución de problemas y la adopción de la herramienta.
+
+SEMS se apoya además en tres sistemas externos que amplían sus capacidades sin comprometer el núcleo de la solución: el medidor inteligente, que provee datos de consumo en tiempo real; los dispositivos del hogar, que pueden ser encendidos o apagados de forma remota para optimizar el uso energético; y el proveedor de servicios eléctricos, que ofrece información sobre tarifas, consumo histórico y posibles incidencias en el suministro.
+
+Esta integración permite que SEMS funcione como un ecosistema completo para el control y la gestión energética doméstica. Al reunir usuarios, dispositivos y datos bajo una infraestructura digital modular, la plataforma fortalece su propuesta de valor: ofrecer a las personas un sistema confiable, accesible y proactivo que contribuya tanto al ahorro económico como a la sostenibilidad ambiental.
+
+![Context-Diagram.png](../assets/Context-Diagram.png)
+
 ### 4.6.3. Software Architecture Container Diagrams
 - Este diagrama de contenedores ilustra los componentes clave de la plataforma ENERGIX y cómo interactúan entre sí y con sistemas externos. Se destacan la **Aplicación web**, **la API Backend**, **la Base de Datos** y **servicios externos** como xxx xxx y xxx xxx. Cada contenedor cumple una función específica para asegurar el funcionamiento integral del sistema.
 ![Container-Diagram.png](../assets/Container-Diagram.png)
