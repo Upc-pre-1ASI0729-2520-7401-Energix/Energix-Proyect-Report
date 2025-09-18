@@ -263,9 +263,37 @@ Esta integración permite que SEMS funcione como un ecosistema completo para el 
 - Este diagrama de contenedores ilustra los componentes clave de la plataforma ENERGIX y cómo interactúan entre sí y con sistemas externos. Se destacan la **Aplicación web**, **la API Backend**, **la Base de Datos** y **servicios externos** como xxx xxx y xxx xxx. Cada contenedor cumple una función específica para asegurar el funcionamiento integral del sistema.
 ![Container-Diagram.png](../assets/Container-Diagram.png)
 ### 4.6.4. Software Architecture Components Diagrams
+El diagrama de componentes profundiza en la arquitectura interna de la plataforma Energix, enfocándose en la estructura del contenedor REST API. Este diagrama ilustra cómo las responsabilidades de la lógica de negocios se dividen en capas distintas: Controladores, Servicios y Repositorios, lo que garantiza una clara separación de preocupaciones y un código más mantenible.
 
+**Capas del Diagrama**
+
+- **Controladores**: Los controladores (AuthController, DeviceController, AutomationController, ReportController, AlertController) actúan como el punto de entrada principal desde el Frontend Web SPA. Procesan las solicitudes de los usuarios y las dirigen a los servicios correspondientes para su procesamiento.
+- **Servicios**: Los servicios (AuthService, DeviceService, AutomationService, ReportService, AlertService) encapsulan la lógica de negocio de la plataforma. Cada servicio maneja un contexto funcional específico: AuthService gestiona la autenticación, DeviceService se encarga de los dispositivos, AutomationService administra las reglas de automatización, ReportService genera informes y AlertService maneja las notificaciones.
+- **Repositorios**: Los repositorios (UserRepository, DeviceRepository, AutomationRepository, ReportRepository, AlertRepository) son la capa de acceso a datos. Gestionan la persistencia y la recuperación de información desde la base de datos externa (Database) para sus respectivos servicios.
+
+**Integración de Componentes Externos**
+
+La plataforma se comunica con otros sistemas y contenedores para ofrecer su funcionalidad completa.  La capa de servicios interactúa con contenedores externos clave: DeviceService y AlertService utilizan el Message Broker para la comunicación asíncrona y la gestión de eventos en tiempo real.
+
+- ReportService y AlertService se conectan con el File Storage para almacenar informes generados y archivos adjuntos de notificaciones, respectivamente.
+- Por último, todos los repositorios se comunican con la Database para almacenar y recuperar la información esencial del sistema, como datos de usuarios, dispositivos, automatizaciones, reportes y alertas.
+
+Esta estructura modular y desacoplada facilita el desarrollo, las pruebas y el mantenimiento del sistema, permitiendo que cada componente se evolucione de forma independiente sin afectar a los demás.
+
+![Component-Diagram.png](../assets/Component-Diagram.png)
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
+
+
+
+
+
+
+
+
+
+
+
