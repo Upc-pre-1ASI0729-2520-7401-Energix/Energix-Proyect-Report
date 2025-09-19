@@ -443,7 +443,27 @@ Este diagrama presenta la arquitectura en capas (Aplicación, Dominio, Infraestr
 Este diagrama muestra la arquitectura en capas (Aplicación, Dominio, Infraestructura) del Bounded Context de Gestión de Automatizaciones. La capa de Aplicación (AutomationController y AutomationService) coordina la lógica para la creación y gestión de las reglas de automatización. El corazón del sistema es la capa de Dominio, que se centra en el agregado Automation y sus objetos internos AutomationTrigger, AutomationAction y Schedule, que definen las reglas de negocio y el comportamiento de las automatizaciones. El Dominio también especifica la interfaz AutomationRepository. La capa de Infraestructura (AutomationRepositoryImpl y TaskScheduler) implementa la persistencia y la ejecución de las tareas programadas, desacoplando la lógica de negocio del mecanismo específico de programación, lo que permite una mayor flexibilidad y escalabilidad.
 
 ## 4.8. Database Design
+El diseño lógico de la base de datos es la columna vertebral de la arquitectura funcional del sistema. Cada Bounded Context (BC) cuenta con sus propias entidades y relaciones específicas, las cuales están alineadas con las responsabilidades y reglas de negocio de su dominio correspondiente.
+
+La estructura de la base de datos se basa en los principios de separación de responsabilidades y un enfoque orientado a microservicios. Esto permite escalar, mantener y modificar cada parte del sistema de forma independiente. La implementación se adhiere al Domain-Driven Design (DDD), lo que permite a cada contexto manejar sus propias entidades y relaciones sin depender directamente de otros, salvo a través de integraciones o referencias controladas. Este enfoque asegura que la base de datos es robusta, escalable y fácil de manejar a medida que la solución evoluciona.
 ### 4.8.1. Database Diagrams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
