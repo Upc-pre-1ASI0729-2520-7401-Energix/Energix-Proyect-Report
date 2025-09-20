@@ -301,6 +301,37 @@ La fase de diseño de wireframes se ha enfocado en la creación meticulosa de la
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+- User goal 1: Iniciar sesión para poder obversar el dashboard informativo
+
+![Wireflow-1.png](../assets/Wireflow-1.png)
+
+- User goal 2: Entrar al dashboard informativo para luego entrar en la opción de Reportes y descargar mi reporte generado a lo largo del mes
+
+![Wireflow-2.png](../assets/Wireflow-2.png)
+
+- User goal 3: Estabelcer preferencias para todos los dispositivos que tengo configurados en la aplicación y guargar configuraciones predeterminadas
+
+![Wireflow-3.png](../assets/Wireflow-3.png)
+
+- User goal 4: Entrar al dashboard interactivo para luego ir a la opción de perfil y poder modificar sus datos
+
+![Wireflow-4.png](../assets/Wireflow-4.png)
+
+- Happy y Unhappy paths de cada User goal:
+- **User goal 1**:
+- - (Happy path) El usuario entra a la landing page y encuentra el botón de Iniciar sesión, como ya tiene una cuenta ingresa sus credenciales y son validadas por el sistema, una vez todo correcto es redirigido al dashboard informativo donde podrá interactuar con las diferentes herrameintas disponibles.
+- - (Unhappy path) El usuario entra a la landing page y presiona el botón de Inicar sesión, ingresa sus credenciales pero son incorrectas por lo que el sistema le manda un mensaje de error que dice "Correo o contraseña incorrectos", por lo que no será redirigido al dashboard informativo.
+- **User goal 2**:
+- - (Happy path) El usuario accede al landing page y hace click en Iniciar Sesión, ingresa con sus credenciales y tras una validación es redirigido al dashboard informativo. Navega por el menú lateral y hace click en la opción de Reportes donde visualiza el panel con la información de su consumo de mes, cumplimiento de metas, ranking de dispositivos y ahorro acumulado, entonces el usuario presiona el botón para descarga la información en formato PDF y Excel, luego aparece un mensaje diciendo "Reporte descargado exito" con la opción de visualizar el reporte.
+- - (Unhappy path) El usuario accede al landing page y hace click en Iniciar Sesión, ingresa con sus credenciales y tras una validación es redirigido al dashboard informativo. Navega por el menú lateral y hace click en la opción de Reportes, al momento de entrar no le aparecerá ninguna información disponible por lo que el sistema le dará un mensaje diciendo "Error al momento de cargar la información", del mismo modo si presiona el botón de descargar el sistema le dirá "Error al momento de descargar intente más tarde", por lo que el usuario no podrá visualizar su información ni descargarla.
+- **User goal 3**:
+- - (Happy path) El usuario accede al landing page y hace click en Iniciar Sesión. Desde el dashboard selecciona la opción Device que está disponible, en esta pantalla luego accede a la opción "Preference" donde puede establecer límites de consumo energético y horarios de funcionamiento. Una vez que completa la configuración y hace clic en "Save Preference", el sistema valida los parámetros y se guarda los cambios aplicados al dispositivo.
+- - (Unhappy path) El usuario accede al landing page y hace click en Iniciar Sesión. Desde el dashboard selecciona la opción Device que está disponible, en esta pantalla luego accede a la opción "Preference" y accede a su configuración para establecer límites de consumo energético. Después de completar todos los campos necesarios y hacer clic en "Save Preference", ocurre un error interno en el sistema de gestión de dispositivos. No se muestra ningún mensaje de confirmación y la configuración no se aplica correctamente, impidiendo que el usuario personalice las reglas de automatización para optimizar el consumo energético del dispositivo.
+- **User goal 4**:
+- - (Happy path) El usuario navega por la landing page, entra al dashboard informativo mediante el botón Iniciar Sesión, luego de la validación entra al dashboard y hace click en la opción de Profile, donde puede visualizar correctamente sus datos personales, información de contacto y configuraciones de la cuenta.- - (Unhappy path) El usuario navega por la landing page, entra al dashboard informativo mediante el botón Iniciar Sesión, luego de la validación entra al dashboard y hace click en la opción de Consumo, al momemto de entar el usuario no podrá visualizar los datos completos, estarán imcompletos o desactualizados en los indicadores principales, por lo que no podrá visualizar la información detallada.
+- - (Unhappy path) El usuario navega por la landing page, entra al dashboard informativo mediante el botón Iniciar Sesión, luego de la validación entra al dashboard y hace click en la opción de Profile. Al momento de ingresar, el usuario no podrá visualizar sus datos completos; la información estará incompleta o desactualizada, por lo que no podrá revisar correctamente sus datos personales ni realizar ajustes en su perfil.
+
 ### 4.4.2. Web Applications Mock-ups
 
 El diseño de mockups representa la fase de alta fidelidad de la solución, donde la interfaz se concibe con elementos visuales, tipografía y colores definitivos. Esta etapa transforma los wireframes en una experiencia de usuario tangible y estilizada.
@@ -372,6 +403,7 @@ La coherencia visual entre todos los mockups asegura un sistema de diseño unifi
 - **User goal 4**:
 - - (Happy path) El usuario navega por la landing page, entra al dashboard informativo mediante el botón Iniciar Sesión, luego de la validación entra al dashboard y hace click en la opción de Profile, donde puede visualizar correctamente sus datos personales, información de contacto y configuraciones de la cuenta.- - (Unhappy path) El usuario navega por la landing page, entra al dashboard informativo mediante el botón Iniciar Sesión, luego de la validación entra al dashboard y hace click en la opción de Consumo, al momemto de entar el usuario no podrá visualizar los datos completos, estarán imcompletos o desactualizados en los indicadores principales, por lo que no podrá visualizar la información detallada.
 - - (Unhappy path) El usuario navega por la landing page, entra al dashboard informativo mediante el botón Iniciar Sesión, luego de la validación entra al dashboard y hace click en la opción de Profile. Al momento de ingresar, el usuario no podrá visualizar sus datos completos; la información estará incompleta o desactualizada, por lo que no podrá revisar correctamente sus datos personales ni realizar ajustes en su perfil.
+
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
