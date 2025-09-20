@@ -266,31 +266,23 @@ Información extra:
 
 ENTREVISTA 3
 
-captura:![Entrevista1-Segmento1.png](../assets/Entrevista1-Segmento1.png)
+captura
 
+Link:
 
-Inicia: 0:00
+Inicia:
 
-Duración: 9:12
+Duración:
 
-Nombre: Moises de la Cruz
+Nombre:
 
-Edad: 29
+Edad:
 
-Distrito: Chorrillos
+Distrito:
 
-Resumen:El entrevistado señaló que en su empresa textil controlan el consumo de energia de forma manual, leyendo el medidor al inicio y fin de mes. Han tenido problemas con facturas excesivamente altas. , Considera que el uso eficiente de energia en su modelo de negocio es muy importante. Considera útil una app con alertas semanales y de fácil uso, especialmente para que sus padres también la puedan manejar. 
+Resumen:
 
 Información extra:
-
-    Dispositivos:   
-    - iPhone (uso constante).
-    - MacBooks (para trabajo).
-    - Navegador Chrome (uso constante).
-
-    Personalidad:
-    - Alta disposición a innovar y probar nuevas tecnologías para el hogar y para su familia.
-    - Su motivación va más allá del ahorro económico: le interesa modernizar el ambiente en el cual convive con su familia.
 
 ESTUDIANTES
 
@@ -368,7 +360,7 @@ Edad: 19
 
 Distrito: Pueblo Libre
 
-Resumen: Simón Molina es un estudiante de 19 años que alquila un cuarto para estar más cerca de la universidad. Usualmente, calcula sus ingresos y gastos con el objetivo de no gastar de más. Él, considera que es muy consciente con respecto a su consumo energético. Además, que ha inentado reducir sus gastos energéticos mediante evitar dejar encendidas las luces o enchufados los electrodomésticos. Hay veces en las que su factura varía más a pesar de casi no cambiar su consumo. Prefiere dispositivos inteligentes que sean fáciles de utilizar y no sean tan caros. Le gustaría tener información sobre cuánto gasta diariamente y qué dispositivo consume más energía. Asimismo, considera que las alertas de consumo son muy útiles para el ahorro energético. También, menciona que está buscando una aplicación fácil de usar y que realmente ayude a ahorrar. Finalmente, menciona que está interesado en un producto que brinde confianza al momento de ahorrar energía y que sea accesible monetariamente.
+Resumen:
 
     Dispositivos:
     - Samsung (uso constante).
@@ -376,16 +368,12 @@ Resumen: Simón Molina es un estudiante de 19 años que alquila un cuarto para e
     
     Personalidad:
     - Carrera: Ingeniería de Sistemas.
-    - Se preocupa por su consumo energético.
-    - Busca una aplicación barata que resuelva su problema energético.
+    - me dio pereza pensar
+    - mañana lo hago zzz
 
 Información extra:
 
 ### 2.2.3. Análisis de entrevistas
-
-| **Segmento** | **Características Objetivas Comunes** | **Características Subjetivas Comunes** |
-|--------------|---------------------------------------|-----------------------------------------|
-| Estudiantes que alquilan. | - **Edad:** 19-20 años.<br>- **Situación:** Alquilan un cuarto o departamento compartido para estar más cerca de la universidad.<br>- **Carreras:** Ingeniería de Software / Ingeniería de Sistemas (alto contacto con tecnología).<br>- **Ingresos:** Presupuesto limitado, dependientes de mesada familiar o trabajos de medio tiempo.<br>- **Hábitos de ahorro:** Apagan luces, desenchufan dispositivos, prefieren LED, evitan aparatos de alto consumo.<br>- **Tecnología:** Uso frecuente de aplicaciones móviles y disposición a probar dispositivos inteligentes económicos. | - **Motivación:** Ahorrar dinero en servicios básicos, tener control real sobre su gasto eléctrico y confiar en que sus esfuerzos se reflejen en la factura.<br>- **Frustración:** Facturas con variaciones inesperadas, falta de información clara sobre qué dispositivo consume más, desconfianza en el control actual de su consumo.<br>- **Preferencias:** Dispositivos y apps simples, fáciles de usar y accesibles económicamente.<br>- **Deseo:** Contar con alertas, monitoreo en tiempo real, historial de consumo y feedback para mejorar hábitos.<br>- **Actitud:** Conscientes y responsables en su consumo; están dispuestos a cambiar hábitos si tienen herramientas confiables y útiles. |
 
 ## 2.3. Needfinding
 
@@ -432,14 +420,6 @@ El análisis del User Task Matrix revela tareas que resultan altamente frecuente
 Este análisis permite enfocar el diseño de la plataforma en torno a las tareas más críticas de cada grupo: control avanzado y planificación para propietarios, y ahorro inmediato y facilidad de uso para estudiantes, lo que facilita priorizar funcionalidades en el backlog y asegurar que cada segmento perciba un alto valor en el sistema.
 
 ### 2.3.3. User Journey Mapping
-En esta sección se desarrollan los User Journey Maps de nuestros segmentos principales , y nuestras user personas
-
-El objetivo es entender sus metas, procesos, puntos de fricción, emociones y oportunidades, para así diseñar una solución que responda a sus necesidades reales y genere valor.
-
-![userJoruneyMapping1.png](../assets/userJoruneyMapping1.png)
-
-Este User Journey Map muestra la experiencia de Moisés de la Cruz, administrador de una textilería familiar, en la adopción de Energix. Inicia preocupado por la falta de visibilidad en el consumo eléctrico y los problemas constantes con algunos dispositivos. Durante la búsqueda e investigación en Google surgen dudas al comparar diferentes sistemas, pero al descubrir Energix encuentra una opción más clara y sencilla. Tras la instalación, experimenta satisfacción gracias a la facilidad de uso de la app y al soporte técnico. Con el monitoreo en tiempo real y las notificaciones, alcanza un estado de entusiasmo al prevenir consumos inusuales y optimizar el uso de energía. Finalmente, concluye con confianza al obtener reportes exactos y personalizados que le permiten reducir costos y mejorar la gestión de la empresa.
-
 
 ### 2.3.4. Empathy Mapping
 
