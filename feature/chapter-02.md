@@ -432,6 +432,14 @@ El análisis del User Task Matrix revela tareas que resultan altamente frecuente
 Este análisis permite enfocar el diseño de la plataforma en torno a las tareas más críticas de cada grupo: control avanzado y planificación para propietarios, y ahorro inmediato y facilidad de uso para estudiantes, lo que facilita priorizar funcionalidades en el backlog y asegurar que cada segmento perciba un alto valor en el sistema.
 
 ### 2.3.3. User Journey Mapping
+En esta sección se desarrollan los User Journey Maps de nuestros segmentos principales , y nuestras user personas
+
+El objetivo es entender sus metas, procesos, puntos de fricción, emociones y oportunidades, para así diseñar una solución que responda a sus necesidades reales y genere valor.
+
+![userJoruneyMapping1.png](../assets/userJoruneyMapping1.png)
+
+Este User Journey Map muestra la experiencia de Moisés de la Cruz, administrador de una textilería familiar, en la adopción de Energix. Inicia preocupado por la falta de visibilidad en el consumo eléctrico y los problemas constantes con algunos dispositivos. Durante la búsqueda e investigación en Google surgen dudas al comparar diferentes sistemas, pero al descubrir Energix encuentra una opción más clara y sencilla. Tras la instalación, experimenta satisfacción gracias a la facilidad de uso de la app y al soporte técnico. Con el monitoreo en tiempo real y las notificaciones, alcanza un estado de entusiasmo al prevenir consumos inusuales y optimizar el uso de energía. Finalmente, concluye con confianza al obtener reportes exactos y personalizados que le permiten reducir costos y mejorar la gestión de la empresa.
+
 
 ### 2.3.4. Empathy Mapping
 
