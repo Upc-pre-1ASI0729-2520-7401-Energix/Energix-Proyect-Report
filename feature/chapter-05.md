@@ -3,6 +3,45 @@
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
 ### 5.1.2. Source Code Management
+
+La gestión del código fuente es parte fundamental del desarrollo de cualquier proyecto de software, ya que nos permitirá rastrear cambios, revertir versionas y coordinar a los diferentes integrantes del equipo a la misma vez. En ENERGIX, utilizaremos **GitHub** como plataforma para alojar nuestros repositorios.
+
+**URL de los Repositorios**
+
+- **Organization:** https://github.com/Upc-pre-1ASI0729-2520-7401-Energix 
+- **Reporte:** https://github.com/Upc-pre-1ASI0729-2520-7401-Energix/Energix-Proyect-Report 
+- **Landing Page:** https://github.com/Upc-pre-1ASI0729-2520-7401-Energix/Energix-Landing-Page
+
+**Commits Convencionales**
+
+Para los mensajes de commit en el proyecto ENERGIX, se sigue la convención **Coventional Commits**. Estos mensajes deben seguir el formato estándar para facilitar la lectura y entendimiento del historial del proyecto:
+
+``` githubexpressionlanguage
+<type>[optional scope]:<decription>
+
+[optional body]
+
+[optional footer(s)]
+```
+
+- **Type**
+-  -  ```feat```: Se usa cuando se añade una nueva catacterística.  
+-  -  ```fix```: Para la correción de errores.
+-  -  ```docs```: Modificaciones en la documentación.
+-  -  ```style```: Cambios que no afectan la lógica del código, como los formatos o estilos.
+-  -  ```refactor```: Modificaciones que no añaden características ni corrigen errores.
+-  -  ```test```: Addicón o modificación de pruebas.
+
+- **Scope:** Proporciona información adicional sobre el área del código afectada.
+
+**Ejemplos de commits**
+
+- ```feat(login): add user authentication module```
+- ```fix(payment): resolve payment gateway issue``` 
+- ```docs(README): update setup instructions```
+
+Con estas estructuras, ENERGIX se puede gestionar eficientemente el flujo de trabajo del desarrollo, asegurándonos una integración continua y una organización clara del código.
+
 ### 5.1.3. Source Code Style Guide & Conventions
 En el proyecto ENERGIX, hemos implementaado una serie de guías de estilo y convenciones para asegurar que todo el equipo de desarrollo siga una estructura consistente y clara en todo el desarrollo del proyecto. Facilitando la legibidad del código, mejorando la colaboración entre los integrantes asegurando que el código sea mantenible a largo plazo.
 
