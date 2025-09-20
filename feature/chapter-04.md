@@ -451,6 +451,8 @@ Esta estructura modular y desacoplada facilita el desarrollo, las pruebas y el m
 
 ## 4.7. Software Object-Oriented Design
 
+Esta sección presenta el diseño orientado a objetos del sistema, definiendo las clases principales, sus atributos y relaciones.
+
 ### 4.7.1. Class Diagrams
 
 **Identity and Access Management**
