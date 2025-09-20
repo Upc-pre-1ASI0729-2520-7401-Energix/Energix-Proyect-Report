@@ -381,14 +381,15 @@ Utilizando la información recolectada, hemos realizado un análisis de las nece
 
 #### 2.3.1. User Personas
 - En esta sección del documento, se presentarán perfiles ficticios que representan a los grupos de interés intrevistados. La información proporcionada incluye datos demográficos, rasgos de personalidad, motivaciones, preferencias, metas, desafíos y comportamientos típicos. Estos detalles están basados en las entrevistas realizadas previamente. Se han utilizado herramientas de UXPressia para facilitar la elaboración de estos perfiles 
+#
+- **User Person para Propietarios**
 
--**User Person para Propietarios**
-- La "User Person" de John doe representa a propietarios de vivienda que desean tener una herramienta que les ayude a optimizar su consumo de energía en sus hogares. John es un ingeniero de software de 35 años, motivado por las nuevas tecnologías y la rapidez de la evolución de estas mismas las cuales le ayudarán en su desempeño como ingeniero. Las frustraciones que presenta son el elevado monto de la factura que recibe cada mes debido al alto consumo energético que genera día a día y el no tener una herramienta que le ayude a optimizar este consumo. . 
-![User-Persona-1.png](../assets/User-Persona-1.png)
+- - La "User Person" de Jane Smith representa a propietarios de vivienda que desean tener una herramienta que les ayude a optimizar su consumo de energía en sus hogares. Jane es una secretaria de 35 años, motivado por las nuevas tecnologías y la rapidez de la evolución de estas mismas las cuales le ayudarán en su desempeño como secretaria. Las frustraciones que presenta son el elevado monto de la factura que recibe cada mes debido al alto consumo energético que genera día a día y el no tener una herramienta que le ayude a optimizar este consumo. . 
+![User-Person-1.png](../assets/User-Person-1.png)
+- **User Person para Estudiantes**
 
-- -**User Person para Estudiantes**
-- La "User Person" de María Nuñez representa a los estudiantes que alquilan viviendas. Interesados en reducir su consumo energético para poder ahorrar dinero para sus demás necesidades. María Nuñez de 20 años es un estudiante de la carrera de ingenieria de software, utiliza herrameientas tecnológicas de modernas debido a que su carre lo demanda. Sus motivaciones son poder disminuir el consumo energético generado cada mes. Sus frustaciones son los elevados costos de la factura de luz lo que le obliga a gastar de más del preosupuesto que tenía para el mes. 
-![User-Persona-2.png](../assets/User-Persona-2.png)
+- - La "User Person" de Marío Nuñez representa a los estudiantes que alquilan viviendas. Interesados en reducir su consumo energético para poder ahorrar dinero para sus demás necesidades. Marío Nuñez de 20 años es un estudiante de la carrera de ingenieria de software, utiliza herrameientas tecnológicas de modernas debido a que su carre lo demanda. Sus motivaciones son poder disminuir el consumo energético generado cada mes. Sus frustaciones son los elevados costos de la factura de luz lo que le obliga a gastar de más del preosupuesto que tenía para el mes. 
+![User-Person-2.png](../assets/User-Person-2.png)
 ### 2.3.2. User Task Matrix
 Para el desarrollo del proyecto, se ha compilado un User Task Matrix, el cual resume las actividades esenciales de los dos grupos de personas investigados. Este recurso sirve para identificar las acciones principales de cada tipo de usuario, además de evaluar la periodicidad y la importancia que cada uno le atribuye. El conocimiento extraído de este análisis es crucial para definir las prioridades en el diseño de la herramienta digital, lo que asegura que su concepción esté alineada con las exigencias auténticas de los usuarios.
 
