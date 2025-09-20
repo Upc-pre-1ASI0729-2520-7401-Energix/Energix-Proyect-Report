@@ -375,6 +375,10 @@ Información extra:
 
 ### 2.2.3. Análisis de entrevistas
 
+| **Segmento** | **Características Objetivas Comunes** | **Características Subjetivas Comunes** |
+|--------------|---------------------------------------|-----------------------------------------|
+| Estudiantes que alquilan. | - **Edad:** 19-20 años.<br>- **Situación:** Alquilan un cuarto o departamento compartido para estar más cerca de la universidad.<br>- **Carreras:** Ingeniería de Software / Ingeniería de Sistemas (alto contacto con tecnología).<br>- **Ingresos:** Presupuesto limitado, dependientes de mesada familiar o trabajos de medio tiempo.<br>- **Hábitos de ahorro:** Apagan luces, desenchufan dispositivos, prefieren LED, evitan aparatos de alto consumo.<br>- **Tecnología:** Uso frecuente de aplicaciones móviles y disposición a probar dispositivos inteligentes económicos. | - **Motivación:** Ahorrar dinero en servicios básicos, tener control real sobre su gasto eléctrico y confiar en que sus esfuerzos se reflejen en la factura.<br>- **Frustración:** Facturas con variaciones inesperadas, falta de información clara sobre qué dispositivo consume más, desconfianza en el control actual de su consumo.<br>- **Preferencias:** Dispositivos y apps simples, fáciles de usar y accesibles económicamente.<br>- **Deseo:** Contar con alertas, monitoreo en tiempo real, historial de consumo y feedback para mejorar hábitos.<br>- **Actitud:** Conscientes y responsables en su consumo; están dispuestos a cambiar hábitos si tienen herramientas confiables y útiles. |
+
 ## 2.3. Needfinding
 
 Utilizando la información recolectada, hemos realizado un análisis de las necesidades de los usuarios, que nos permitirá identificar y priorizar las funcionalidades que se incluirán en la plataforma. El resultado es la elaboración de los arquetipos User Persona, que representan a los usuarios finales de la plataforma, el User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
