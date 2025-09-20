@@ -266,23 +266,31 @@ Información extra:
 
 ENTREVISTA 3
 
-captura
+captura:![Entrevista1-Segmento1.png](../assets/Entrevista1-Segmento1.png)
 
-Link:
 
-Inicia:
+Inicia: 0:00
 
-Duración:
+Duración: 9:12
 
-Nombre:
+Nombre: Moises de la Cruz
 
-Edad:
+Edad: 29
 
-Distrito:
+Distrito: Chorrillos
 
-Resumen:
+Resumen:El entrevistado señaló que en su empresa textil controlan el consumo de energia de forma manual, leyendo el medidor al inicio y fin de mes. Han tenido problemas con facturas excesivamente altas. , Considera que el uso eficiente de energia en su modelo de negocio es muy importante. Considera útil una app con alertas semanales y de fácil uso, especialmente para que sus padres también la puedan manejar. 
 
 Información extra:
+
+    Dispositivos:   
+    - iPhone (uso constante).
+    - MacBooks (para trabajo).
+    - Navegador Chrome (uso constante).
+
+    Personalidad:
+    - Alta disposición a innovar y probar nuevas tecnologías para el hogar y para su familia.
+    - Su motivación va más allá del ahorro económico: le interesa modernizar el ambiente en el cual convive con su familia.
 
 ESTUDIANTES
 
