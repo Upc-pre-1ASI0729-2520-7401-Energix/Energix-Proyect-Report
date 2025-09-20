@@ -215,6 +215,9 @@ Una barra superior (Navbar) con accesos rápidos a Notificaciones, Fecha y Hora,
 Estructura jerárquica clara: Sidebar (categorías principales) → Body (contenido detallado).
 
 ## 4.3. Landing Page UI Design
+
+El diseño de la landing page de Energix se ha concebido para ofrecer una experiencia visual atractiva y funcional, alineada con los objetivos de la plataforma. La estructura de la página está organizada en secciones claras que guían al usuario a través de la propuesta de valor, los productos y las opciones de suscripción. Cada sección ha sido diseñada con un enfoque en la usabilidad y la estética, utilizando una paleta de colores coherente y una tipografía legible que refuerza la identidad de la marca.
+
 ### 4.3.1. Landing Page Wireframe
 
 ![Wireframe-Inicio.png](../assets/Wireframe-Inicio.png)
@@ -238,11 +241,13 @@ Estructura jerárquica clara: Sidebar (categorías principales) → Body (conten
 ![Footer.png](../assets/Footer.png)
 
 ## 4.4. Web Applications UX/UI Design
+
 La sección de Diseño UX/UI se centra en la arquitectura de la información, el diseño de la interfaz y la experiencia de usuario para las aplicaciones web de la solución Energix. Esta etapa abarca la creación de vistas funcionales y flujos de interacción completos, asegurando una experiencia intuitiva y centrada en el usuario.
 
 Se elaboraron wireframes detallados para la versión de escritorio, definiendo la disposición de elementos en pantallas clave como el Dashboard principal, los Reportes de Consumo, la Gestión de Dispositivos y la Configuración de Preferencias. A partir de estos esquemas de baja fidelidad, se diseñaron los mockups de alta fidelidad, alineados con un sistema visual consistente que respeta los principios de simplicidad y claridad.
 
 Los componentes y la navegación fueron organizados siguiendo flujos de usuario validados para garantizar que cada acción tenga un propósito claro dentro del recorrido del usuario. La estructura y las interacciones fueron pensadas para ofrecer una experiencia inclusiva, aplicando criterios de accesibilidad (a11y) y soporte para la visualización de datos en diferentes formatos. En los próximos sprints, se desarrollarán de manera progresiva las vistas, integrando las funcionalidades de monitoreo de energía en tiempo real y permitiendo la validación de las interacciones más importantes del sistema.
+
 ### 4.4.1. Web Applications Wireframes
 
 La fase de diseño de wireframes se ha enfocado en la creación meticulosa de la arquitectura visual y la experiencia de usuario para la solución digital de gestión de energía. Cada una de las vistas ha sido concebida como un componente fundamental que, al unirse, forma los flujos de interacción del usuario de manera fluida y lógica. Estos esquemas de baja fidelidad no solo definen la disposición de los elementos, sino que también establecen la jerarquía de la información, asegurando que cada acción y dato tengan un propósito claro. Son la estructura del producto, validando la funcionalidad y la navegación antes de proceder al diseño de alta fidelidad.
@@ -298,71 +303,62 @@ La fase de diseño de wireframes se ha enfocado en la creación meticulosa de la
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.2. Web Applications Mock-ups
 
-
 El diseño de mockups representa la fase de alta fidelidad de la solución, donde la interfaz se concibe con elementos visuales, tipografía y colores definitivos. Esta etapa transforma los wireframes en una experiencia de usuario tangible y estilizada.
 
 Se ha priorizado una estética limpia y moderna para cada vista, utilizando una paleta de colores que guía la atención del usuario hacia las métricas y acciones más importantes. Desde el Dashboard con sus gráficos informativos, pasando por la visualización tabular de "Mis Dispositivos", hasta los ajustes detallados de "Preferencias", cada pantalla ha sido diseñada para ser funcionalmente intuitiva y visualmente atractiva.
 
 La coherencia visual entre todos los mockups asegura un sistema de diseño unificado, facilitando la navegación y reforzando la marca de la solución. El resultado es una interfaz que no solo muestra datos, sino que cuenta una historia de consumo y ahorro de energía de manera clara y directa.
 
-
 - Login: Esta vista propone una interfaz minimalista y funcional diseñada para la autenticación del usuario. Se presenta con campos de entrada estilizados para el correo electrónico y la contraseña, centrando la atención en el proceso de acceso. Se prioriza la usabilidad al incluir un botón de “Log in with Google” como alternativa, agilizando el flujo de autenticación para quienes prefieren esta opción.
-
 
 ![Web-MockUps-LogIn.PNG](../assets/Web-MockUps-LogIn.PNG)
 
-
 - Dashboard: El dashboard se concibe como el centro de mando de la plataforma, proporcionando un resumen visual y detallado del consumo energético. En la parte superior, se muestra un conjunto de tarjetas de indicadores clave (KPIs) con métricas esenciales como el consumo de energía, los ahorros estimados y la factura estimada. El espacio principal es dominado por gráficos que desglosan el consumo diario y por categorías, facilitando una rápida comprensión de los patrones de uso. Las notificaciones de alertas se integran de manera prominente, asegurando que la información crítica no pase desapercibida.
-
 
 ![Web-MockUps-Dashboard.png](../assets/Web-MockUps-Dashboard.png)
 
 - Notifications (Pop-up): Este componente es un elemento de notificación de alta prioridad que se superpone a la pantalla principal, diseñado para alertar al usuario de forma inmediata. Se utiliza una jerarquía visual para distinguir entre mensajes de logros, como “Goal Achievement”, y alertas de consumo elevado. Se prioriza la inmediatez y la claridad de la información, asegurando que el usuario pueda tomar acciones rápidas cuando sea necesario.
 
-
 ![Web-MockUps-Notifications.png](../assets/Web-MockUps-Notifications.png)
-
 
 - Profile: La sección de perfil presenta una arquitectura clara y editable para la gestión de datos personales. Se muestra una estructura con campos prellenados para la información del usuario, cada uno acompañado de un botón de “Edit”, lo que otorga al usuario el control para actualizar su información. Un espacio dedicado a la foto de perfil refuerza la personalización de la cuenta, priorizando la capacidad de adaptación y el control del usuario sobre sus propios datos.
 
-
 ![Web-MockUps-Profile.png](../assets/Web-MockUps-Profile.png)
-
 
 - Devices: Esta pantalla está diseñada para el monitoreo detallado y estructurado de los dispositivos conectados. Se utiliza un formato de tabla para presentar de forma organizada el estado en tiempo real, la última actividad registrada, el historial de alertas y el consumo de energía. La interfaz prioriza la transparencia y la accesibilidad de los datos, permitiendo al usuario obtener una visión completa del rendimiento de cada dispositivo.
 
-
 ![Web-MockUps-Devices.png](../assets/Web-MockUps-Devices.png)
-
 
 - Preferences: Este mockup profundiza en el control granular que el usuario tiene sobre el sistema de monitoreo. La interfaz se presenta como una matriz de opciones de "checkbox" que permiten al usuario activar o desactivar el seguimiento para diversas categorías de dispositivos y tipos de alertas. Esta vista prioriza la personalización, invitando al usuario a definir exactamente qué datos desea que la aplicación recolecte y qué notificaciones desea recibir.
 
-
 ![Web-MockUps-Preferences.png](../assets/Web-MockUps-Preferences.png)
-
 
 - Reports: La sección de reportes se enfoca en la visualización y análisis de datos históricos. Dos gráficos de barras de alta fidelidad, "Device Ranking" y "Weekly Consumption Trend", dominan la vista, facilitando la identificación de los mayores consumidores y la comparación de patrones de uso semanales. La funcionalidad de "Export Report" permite al usuario descargar sus datos en formatos PDF o CSV, lo cual es fundamental para el análisis externo y el registro personal.
 
-
 ![Web-MockUps-Reports.png](../assets/Web-MockUps-Reports.png)
-
 
 - Settings: Este mockup de configuraciones presenta una arquitectura modular que consolida todas las opciones de personalización del sistema. Se muestra de manera clara la sección “Automatic Saving Mode”, que permite la creación de reglas de automatización, y “Notifications and Alerts”, donde el usuario puede definir qué notificaciones desea recibir. El diseño de la interfaz prioriza la organización y el acceso intuitivo, garantizando que el usuario pueda ajustar cada aspecto de la plataforma de manera eficiente.
 
-
 ![Web-MockUps-Settings.png](../assets/Web-MockUps-Settings.png)
 
-
 ### 4.4.3. Web Applications User Flow Diagrams
+
 - User goal 1: Iniciar sesión para poder obversar el dashboard informativo
+
 ![Users-Flow-1.png](../assets/Users-Flow-1.png)
+
 - User goal 2: Entrar al dashboard informativo para luego entrar en la opción de Reportes y descargar mi reporte generado a lo largo del mes
+
 ![Users-Flow-2.png](../assets/Users-Flow-2.png)
+
 - User goal 3: Comprar un producto desde la página principal rellenando información del medio de pago elegido.
+
 ![Users-Flow-3.png](../assets/Users-Flow-3.png)
+
 - User goal 4: Entrar al dashboard interactivo para luego ir a la opción de consumo y poder visualizar mi historial de consumo energético a lo largo de los últimos 3 meses
+
 ![Users-Flow-4.png](../assets/Users-Flow-4.png)
-#
+
 - Happy y Unhappy paths de cada User goal:
 - **User goal 1**:
 - - (Happy path) El usuario entra a la landing page y encuentra el botón de Iniciar sesión, como ya tiene una cuenta ingresa sus credenciales y son validadas por el sistema, una vez todo correcto es redirigido al dashboard informativo donde podrá interactuar con las diferentes herrameintas disponibles.
@@ -376,10 +372,13 @@ La coherencia visual entre todos los mockups asegura un sistema de diseño unifi
 - **User goal 4**:
 - - (Happy path) El usuario navega por la landing page, entra al dashboard informativo mediante el botón Iniciar Sesión, luego de la validación entra al dashboard y hace click en la opción de Consumo, donde puede visualizar más detalladamente los kilowhats consumidos, el porcentaje total, los tiempos de uso de cada dispositivo y el costo estimado para el mes.
 - - (Unhappy path) El usuario navega por la landing page, entra al dashboard informativo mediante el botón Iniciar Sesión, luego de la validación entra al dashboard y hace click en la opción de Consumo, al momemto de entar el usuario no podrá visualizar los datos completos, estarán imcompletos o desactualizados en los indicadores principales, por lo que no podrá visualizar la información detallada.
+
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
+
 ### 4.6.1. Design-Level Event Storming
+
 ### 4.6.2. Software Architecture Context Diagram
 
 El diagrama de contexto de SEMS (Smart Energy Management System) muestra la visión más externa de la plataforma y posiciona a sus actores principales junto con los sistemas con los que se conecta. En este nivel se identifican tres roles clave: el propietario de vivienda, que busca monitorear y optimizar el consumo energético de su hogar; el estudiante que alquila, interesado en reducir gastos y simplificar el control compartido de la energía; y el soporte técnico, encargado de acompañar a los usuarios en la resolución de problemas y la adopción de la herramienta.
@@ -391,9 +390,13 @@ Esta integración permite que SEMS funcione como un ecosistema completo para el 
 ![Context-Diagram.png](../assets/Context-Diagram.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
+
 - Este diagrama de contenedores ilustra los componentes clave de la plataforma ENERGIX y cómo interactúan entre sí y con sistemas externos. Se destacan la **Aplicación web**, **la API Backend**, **la Base de Datos** y **servicios externos** como xxx xxx y xxx xxx. Cada contenedor cumple una función específica para asegurar el funcionamiento integral del sistema.
-![Container-Diagram.png](../assets/Container-Diagram.png)
+
+- ![Container-Diagram.png](../assets/Container-Diagram.png)
+
 ### 4.6.4. Software Architecture Components Diagrams
+
 El diagrama de componentes profundiza en la arquitectura interna de la plataforma Energix, enfocándose en la estructura del contenedor REST API. Este diagrama ilustra cómo las responsabilidades de la lógica de negocios se dividen en capas distintas: Controladores, Servicios y Repositorios, lo que garantiza una clara separación de preocupaciones y un código más mantenible.
 
 **Capas del Diagrama**
@@ -414,6 +417,7 @@ Esta estructura modular y desacoplada facilita el desarrollo, las pruebas y el m
 ![Component-Diagram.png](../assets/Component-Diagram.png)
 
 ## 4.7. Software Object-Oriented Design
+
 ### 4.7.1. Class Diagrams
 
 **Identity and Access Management**
@@ -447,9 +451,11 @@ Este diagrama presenta la arquitectura en capas (Aplicación, Dominio, Infraestr
 Este diagrama muestra la arquitectura en capas (Aplicación, Dominio, Infraestructura) del Bounded Context de Gestión de Automatizaciones. La capa de Aplicación (AutomationController y AutomationService) coordina la lógica para la creación y gestión de las reglas de automatización. El corazón del sistema es la capa de Dominio, que se centra en el agregado Automation y sus objetos internos AutomationTrigger, AutomationAction y Schedule, que definen las reglas de negocio y el comportamiento de las automatizaciones. El Dominio también especifica la interfaz AutomationRepository. La capa de Infraestructura (AutomationRepositoryImpl y TaskScheduler) implementa la persistencia y la ejecución de las tareas programadas, desacoplando la lógica de negocio del mecanismo específico de programación, lo que permite una mayor flexibilidad y escalabilidad.
 
 ## 4.8. Database Design
+
 El diseño lógico de la base de datos es la columna vertebral de la arquitectura funcional del sistema. Cada Bounded Context (BC) cuenta con sus propias entidades y relaciones específicas, las cuales están alineadas con las responsabilidades y reglas de negocio de su dominio correspondiente.
 
 La estructura de la base de datos se basa en los principios de separación de responsabilidades y un enfoque orientado a microservicios. Esto permite escalar, mantener y modificar cada parte del sistema de forma independiente. La implementación se adhiere al Domain-Driven Design (DDD), lo que permite a cada contexto manejar sus propias entidades y relaciones sin depender directamente de otros, salvo a través de integraciones o referencias controladas. Este enfoque asegura que la base de datos es robusta, escalable y fácil de manejar a medida que la solución evoluciona.
+
 ### 4.8.1. Database Diagrams
 
 Para el diseño de la base de datos, se ha optado por un enfoque de Modelado de Entidad-Relación (ER), representando cada uno de los Bounded Contexts mediante diagramas creados con PlantUML. Estos diagramas no solo ilustran las tablas principales, sino que también detallan las claves primarias y foráneas, junto con las relaciones que definen la estructura interna de cada contexto. Este método permite una comprensión clara de la arquitectura de la información y las interconexiones entre las entidades.
@@ -458,49 +464,33 @@ A continuación, se presenta una descripción detallada del diseño de la base d
 
 **Identity and Access Management**
 
-
 En este contexto se modela la gestión de usuarios y sus permisos dentro de la plataforma. El modelo de datos se centra en la entidad principal "users", que representa a los usuarios con atributos como nombre, correo electrónico y una contraseña encriptada. Se relaciona con la entidad "roles" para definir los distintos niveles de acceso, los cuales a su vez se asocian con permisos específicos "permissions" a través de una tabla intermedia "role_permissions". Este diseño permite un control granular sobre las acciones que cada usuario puede realizar en el sistema, asegurando la seguridad y la correcta asignación de responsabilidades. Además, la entidad "user_sessions" se encarga de gestionar las sesiones activas, permitiendo la persistencia y la autenticación continua del usuario.
-
 
 ![Diagrama-BD-Identity-and-Access-Management.jpeg](../assets/Diagrama-BD-Identity-and-Access-Management.jpeg)
 
-
 **Connected Device Management**
-
 
 El contexto define la arquitectura de datos para la administración de los dispositivos inteligentes del hogar. La entidad central es "devices", que representa cada dispositivo físico vinculado al sistema. Se relaciona directamente con "device_types" para clasificar los dispositivos, y con "device_configurations" para almacenar ajustes personalizados de cada equipo, como límites de consumo o programaciones de autoapagado. La tabla "device_status" registra el estado actual del dispositivo en tiempo real, incluyendo si está activo, su consumo de energía, etc. Este diseño permite una supervisión integral y centralizada de todos los aparatos del hogar.
 
-
 ![Diagrama-BD-Connected-Device-Management.jpeg](../assets/Diagrama-BD-Connected-Device-Management.jpeg)
-
 
 **Report Management**
 
-
 En este contexto se define la arquitectura de datos para la generación y almacenamiento de reportes de consumo. La entidad principal es "reports", que almacena cada informe generado con metadatos como el periodo de tiempo y el formato de archivo. La entidad "report_data" contiene las métricas detalladas del reporte, como el consumo total, el consumo promedio y los costos. La tabla "report_types" define los distintos tipos de informes que la plataforma puede generar. Finalmente, "scheduled_reports" permite a los usuarios programar la generación automática y periódica de sus reportes, optimizando la gestión de la información.
-
 
 ![Diagrama-BD-Report-Management.jpeg](../assets/Diagrama-BD-Report-Management.jpeg)
 
-
 **Alert and Notification Management**
-
 
 En este contexto se establece el modelo para el sistema de alertas y su configuración. La entidad principal "alerts" que registra cada alerta generada, conteniendo información como el umbral que se ha superado. Esta entidad se relaciona con "notifications", que almacena los mensajes específicos enviados al usuario. El modelo se complementa con la entidad "notification_preferences", que permite al usuario definir sus preferencias de notificación (por ejemplo, si desea recibir correos o notificaciones push), y "alert_types", que define los tipos de alertas predeterminados.
 
-
 ![Diagrama-BD-Alert-and-Notification-Management.jpeg](../assets/Diagrama-BD-Alert-and-Notification-Management.jpeg)
-
 
 **Automation Management**
 
-
 Este contexto se enfoca en la creación y ejecución de reglas de automatización personalizadas para los dispositivos. La entidad principal es "automations", que representa una regla o rutina de automatización definida por el usuario. Se vincula con "automation_triggers" para definir las condiciones que inician la automatización (por ejemplo, un umbral de consumo o una hora específica), y con "automation_actions" para especificar la acción a ejecutar (por ejemplo, apagar un dispositivo). La entidad "automation_schedules" gestiona la recurrencia de las automatizaciones. Este modelo de datos permite a los usuarios configurar reglas complejas para optimizar su consumo energético de manera autónoma.
 
-
 ![Diagrama-BD-Automation-Management.jpeg](../assets/Diagrama-BD-Automation-Management.jpeg)
-
-
 
 
 
