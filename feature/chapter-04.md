@@ -143,25 +143,27 @@ Al acceder a la plataforma web de Energix, los usuarios pueden explorar los serv
  - **"Redes Sociales"**: Iconos que enlazan a los perfiles sociales de la empresa.
 
 ### 4.2.3. SEO Tags and Meta Tags
+
 - Los SEO Tag y Meta Tags ayudarán a que la página estática y la aplicación web sea posible de analizar fácilmente y se pueda gestionar de manera eficiente y optima.
 
-
-- **Título** El título de nuestra Staruo se definirá de la siguiente manera:
+- **Charset:** Define la codificación de caracteres del documento:
 - ```html 
-  <title>ENERGIX</title>
+  <meta charset="UTF-8" />
 
-- **Descripción** Las descripciones de nuestra Starup se definirá de la siguiente manera:
+- **Compatibilidad IE: Asegura compatibilidad con versiones de Internet Explorer:**
 - ```html 
-  <meta name="description" content="Energix es una aplicación que ayudará a los usuarios a poder optimizar sus consumos de energía"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-- **Keywords**: Algunas Keywords como "viewport" se definirá de la siguiente manera:
+- **Viewport:** Controla cómo se muestra la página en dispositivos móviles:
 - ```html 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
--**Author**: Nuestra marca será registrada en nuestra página de la siguiente manera:
+- **Título:** El título actual de la página:
 - ```html 
-  <meta name="copiright" content="© 2024 ENERGIX. Todos los derechos reservados"/>
+  <title>Energix</title>
+  
 ### 4.2.4. Searching Systems
+
 El sistema de búsqueda en Energix se centra en evitar la sobrecarga de información y en ayudar al usuario a localizar rápidamente los datos que necesita.
 
 Opciones de búsqueda ofrecidas
@@ -189,7 +191,9 @@ En Reportes: los reportes filtrados aparecen en lista y pueden abrirse individua
 En Alertas: las alertas se muestran en un listado reducido según los criterios de búsqueda.
 
 Resaltado de coincidencias: las palabras clave buscadas se destacan para facilitar la identificación de información relevante.
+
 ### 4.2.5. Navigation Systems
+
 El sistema de navegación en Energix está diseñado para guiar al usuario de forma intuitiva tanto en la Landing Page como en la Aplicación Web, asegurando que logre sus objetivos de manera eficiente.
 
 #### Navegación en la Landing Page
