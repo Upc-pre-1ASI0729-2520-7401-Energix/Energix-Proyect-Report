@@ -4,6 +4,116 @@
 ### 5.1.1. Software Development Environment Configuration
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
+En el proyecto ENERGIX, hemos implementaado una serie de guías de estilo y convenciones para asegurar que todo el equipo de desarrollo siga una estructura consistente y clara en todo el desarrollo del proyecto. Facilitando la legibidad del código, mejorando la colaboración entre los integrantes asegurando que el código sea mantenible a largo plazo.
+
+**Nomenclatura General**
+
+Para asegurar la coherencia en todo el código, seguiremos las siguientes directrices:
+
+- Los nombres de variables, funciones y métodos deben utilizar **camelCase**.
+- Los nombres de clases y componentes seguirán la convención **PascalCase**.
+- Para los archivos y carpetas, se empleará la convención **kebab-Case**.
+
+El uso de **ingles** para todos los nombres es obligatorio, con el fin de asegurar la comprensión entre los miembros del equipo y seguir las buenas prácticas.
+
+**Ejemplo**
+
+- **Variables:** ``` home```,```userLocation```
+- **Clases:** ``` HomeOwner```,```user```
+- **Archivos:** ```home-owner.service.js```,```user.controller.js```
+
+**Espacios y Sangrías**
+
+La sangría de código en ENERGIX seguirá las siguientes reglas para asegurar la claridad y el orden del código:
+
+- Se utilizarán **2 espacios** para la sangría en archivos HTML, CSS, JavaScript, y TypeScript.
+- En archivos **Java**, se utilizarán **4 espacios** para la sangría.
+
+Esta convención ayuda a mantener la consistencia en todos los lenguajes empleados en el proyecto, facilitando la colaboración entre los diferentes miembros del equipo.
+
+``` html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Energix</title>
+  </head>
+  <body>
+    <h1>Registros Disponible</h1>
+    <p>Registra tus dispositivos fácilmente</p>
+  </body>
+</html>
+```
+
+**Convenciones por Lenguaje**
+
+1. HTML/CSS/JavaScript:
+
+- - Se utilizará la Google HTML/CSS Style Guide (https://google.github.io/styleguide/htmlcssguide.html) para asegurar la consistencia en la estructura y la presentación de los archivos HTML y CSS.
+- - Para JavaScript, adoptamos la Airbnb JavaScript Style Guide (https://google.github.io/styleguide/htmlcssguide.html), ampliamente conocida y utilizada en la industria.
+
+2. TypeScript:
+
+- - Angular es el framework elegido para el frontend de PARKINGNOW, por lo que seguimos la Angular Style Guide (https://v17.angular.io/guide/styleguide), que dicta cómo deben estructurarse los módulos, servicios y componentes.
+- - También seguimos la Google TypeScript Style Guide (https://google.github.io/styleguide/tsguide.html) para garantizar la correcta tipificación y legibilidad del código.
+
+3. Java:
+
+- - En el backend, utilizamos Spring Boot para crear APIs y servicios web. Seguimos la Google Java Style Guide (https://google.github.io/styleguide/javaguide.html) para mantener consistencia en la estructura de las clases y los métodos.
+- - Los nombres de clases serán descriptivos, utilizando sustantivos para clases y verbos para métodos.
+
+**Ejemplo de una clase Java** 
+
+``` javascript 
+public class HomeOwner {
+  private int totalDevices;
+
+  public HomeOwner(int spaces) {
+    this.availableSpaces = spaces;
+  }
+
+  public void devicesRegistered() {
+    if (availableSpaces > 0) {
+      availableSpaces--;
+    }
+  }
+}
+```
+
+4. **Gherkin**
+- - Para escribir los tests automatizados, seguimos la convención de Gherkin Syntax. (https://cucumber.io/docs/gherkin/) Esto permite una descripción clara y precisa de los escenarios de prueba en los archivos .feature.
+- - Utilizamos Given-When-Then para describir el comportamiento esperado en cada escenario.
+
+**Ejemplo de Gherkin**
+
+``` gherkin
+Feature: Registro de dispositivo 
+
+  Scenario: Registro exitosa
+    Given el usuario ha iniciado sesión
+    When selecciona la opción de dispositivos
+    Then el usuario debe configurar el dispositivo a registrar
+    Then el sistema debe confirmar el registro
+    
+```
+
+**Espacios y Comillas**
+
+- **Espacios:** Siempre se debe colocar un espacio alrededor de los operadores y entre los parámetros en las funciones.
+
+**Ejemplo:**
+
+``` typescript
+
+let totalDevices = 50;
+let devicesRegistered = 10;
+let availableSpace = totalDevices - devicesRegistered;
+ 
+```
+- **Commillas:** En **JavaScript** y **TypeScript**, se utilizan comillas simples ```(')``` para cadenas, mientras que en **HTML** se prefieren las comillas dobles ```(")```.
+
+**Limite de Longitud de Línea**
+
+El código no debe exceder las 80 columnas por líneas. En caso de necesitar más espacios, se recomienda dividir la línea de código para mejorar la legibilidad. 
 ### 5.1.4. Software Deployment Configuration
 - En esta sección se detalla la configuración necesaria para el despliegue de la solución ENERGIX, incluyendo los pasos claves para lograr la publicación satisfactoria de la **Landing Page**, **Servicios Web** y **Aplicaciones Web Frontend** utilizando GitHub Pages para visualizar cada commit del **Landing Page**.
 
