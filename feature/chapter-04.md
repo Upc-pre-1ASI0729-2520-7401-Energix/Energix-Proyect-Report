@@ -408,6 +408,8 @@ La coherencia visual entre todos los mockups asegura un sistema de diseño unifi
 
 ## 4.6. Domain-Driven Software Architecture
 
+Los diagramas de arquitectura de software son herramientas clave para diseñar y comprender la estructura de un sistema. Al aplicar el enfoque de Domain Driven Design (DDD), estos diagramas nos permiten representar visualmente los distintos elementos del dominio, sus límites y las relaciones entre ellos, lo que facilita una mejor planificación y comunicación del diseño
+
 ### 4.6.1. Design-Level Event Storming
 
 ### 4.6.2. Software Architecture Context Diagram
