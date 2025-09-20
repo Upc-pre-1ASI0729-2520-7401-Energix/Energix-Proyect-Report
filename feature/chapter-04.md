@@ -345,19 +345,19 @@ La coherencia visual entre todos los mockups asegura un sistema de diseño unifi
 
 - User goal 1: Iniciar sesión para poder obversar el dashboard informativo
 
-![Users-Flow-1.png](../assets/Users-Flow-1.png)
+![User-Flow-1.png](../assets/User-Flow-1.png)
 
 - User goal 2: Entrar al dashboard informativo para luego entrar en la opción de Reportes y descargar mi reporte generado a lo largo del mes
 
-![Users-Flow-2.png](../assets/Users-Flow-2.png)
+![User-Flow-2.png](../assets/User-Flow-2.png)
 
 - User goal 3: Comprar un producto desde la página principal rellenando información del medio de pago elegido.
 
-![Users-Flow-3.png](../assets/Users-Flow-3.png)
+![User-Flow-3.png](../assets/User-Flow-3.png)
 
-- User goal 4: Entrar al dashboard interactivo para luego ir a la opción de consumo y poder visualizar mi historial de consumo energético a lo largo de los últimos 3 meses
+- User goal 4: Entrar al dashboard interactivo para luego ir a la opción de perfil y poder modificar sus datos.
 
-![Users-Flow-4.png](../assets/Users-Flow-4.png)
+![User-Flow-4.png](../assets/User-Flow-4.png)
 
 - Happy y Unhappy paths de cada User goal:
 - **User goal 1**:
@@ -370,9 +370,8 @@ La coherencia visual entre todos los mockups asegura un sistema de diseño unifi
 - - (Happy path) El usuario ingresa a la landing page y se desplaza hacia la parte de productos, selecciona uno de los productos que están disponibles, luego se le habilitará una ventana para que eliga el método de pago preferido, una vez que rellene la información necesaria el sistema validará los datos y le dará un mensaje diciendo "Pago realizado, gracias" junto al logo con el método seleccionado.
 - - (Unhappy path) El usuario ingresa a la landing page y se desplaza hacia la parte de productos, selecciona uno de los productos que están disponibles, luego se le habilitará una ventana para que eliga el método de pago preferido, una vez que el usuario rellene toda la información necesaría le dará click al botón de "pagar", pero no pasará nada, no le aparecerá otra ventana diciendo "Pago realizado, gracias", debido a un error interno con los métodos de pago por lo que no se puede continuar con la transacción, por consiguiente el usuario no podrá comprar ningún producto.
 - **User goal 4**:
-- - (Happy path) El usuario navega por la landing page, entra al dashboard informativo mediante el botón Iniciar Sesión, luego de la validación entra al dashboard y hace click en la opción de Consumo, donde puede visualizar más detalladamente los kilowhats consumidos, el porcentaje total, los tiempos de uso de cada dispositivo y el costo estimado para el mes.
-- - (Unhappy path) El usuario navega por la landing page, entra al dashboard informativo mediante el botón Iniciar Sesión, luego de la validación entra al dashboard y hace click en la opción de Consumo, al momemto de entar el usuario no podrá visualizar los datos completos, estarán imcompletos o desactualizados en los indicadores principales, por lo que no podrá visualizar la información detallada.
-
+- - (Happy path) El usuario navega por la landing page, entra al dashboard informativo mediante el botón Iniciar Sesión, luego de la validación entra al dashboard y hace click en la opción de Profile, donde puede visualizar correctamente sus datos personales, información de contacto y configuraciones de la cuenta.- - (Unhappy path) El usuario navega por la landing page, entra al dashboard informativo mediante el botón Iniciar Sesión, luego de la validación entra al dashboard y hace click en la opción de Consumo, al momemto de entar el usuario no podrá visualizar los datos completos, estarán imcompletos o desactualizados en los indicadores principales, por lo que no podrá visualizar la información detallada.
+- - (Unhappy path) El usuario navega por la landing page, entra al dashboard informativo mediante el botón Iniciar Sesión, luego de la validación entra al dashboard y hace click en la opción de Profile. Al momento de ingresar, el usuario no podrá visualizar sus datos completos; la información estará incompleta o desactualizada, por lo que no podrá revisar correctamente sus datos personales ni realizar ajustes en su perfil.
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
