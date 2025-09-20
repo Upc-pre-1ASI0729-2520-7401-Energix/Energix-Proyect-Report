@@ -360,7 +360,7 @@ Edad: 19
 
 Distrito: Pueblo Libre
 
-Resumen:
+Resumen: Simón Molina es un estudiante de 19 años que alquila un cuarto para estar más cerca de la universidad. Usualmente, calcula sus ingresos y gastos con el objetivo de no gastar de más. Él, considera que es muy consciente con respecto a su consumo energético. Además, que ha inentado reducir sus gastos energéticos mediante evitar dejar encendidas las luces o enchufados los electrodomésticos. Hay veces en las que su factura varía más a pesar de casi no cambiar su consumo. Prefiere dispositivos inteligentes que sean fáciles de utilizar y no sean tan caros. Le gustaría tener información sobre cuánto gasta diariamente y qué dispositivo consume más energía. Asimismo, considera que las alertas de consumo son muy útiles para el ahorro energético. También, menciona que está buscando una aplicación fácil de usar y que realmente ayude a ahorrar. Finalmente, menciona que está interesado en un producto que brinde confianza al momento de ahorrar energía y que sea accesible monetariamente.
 
     Dispositivos:
     - Samsung (uso constante).
@@ -368,8 +368,8 @@ Resumen:
     
     Personalidad:
     - Carrera: Ingeniería de Sistemas.
-    - me dio pereza pensar
-    - mañana lo hago zzz
+    - Se preocupa por su consumo energético.
+    - Busca una aplicación barata que resuelva su problema energético.
 
 Información extra:
 
